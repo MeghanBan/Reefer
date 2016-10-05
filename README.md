@@ -1,2 +1,2 @@
-# Reefer
-Reefer Madness Project
+# Inferno
+The Divine Comedy: Dante's Inferno Project
