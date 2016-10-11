@@ -27,7 +27,7 @@ ___
 
 ### New for this week
 
-* GitHub practice
+* GitHub practice ([tutorial](http://dh.obdurodon.org/github.xhtml))
 * Strategy for preparing text
 * Long-term (week by week) plan, including interim deadlines
 * Allocation of tasks
