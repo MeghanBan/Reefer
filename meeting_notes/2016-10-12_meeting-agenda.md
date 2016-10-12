@@ -27,6 +27,7 @@ ___
 
 ### New for this week
 
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * GitHub practice ([tutorial](http://dh.obdurodon.org/github.xhtml))
 * Strategy for preparing text
 * Long-term (week by week) plan, including interim deadlines
