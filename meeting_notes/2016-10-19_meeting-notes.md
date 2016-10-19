@@ -14,7 +14,7 @@ Sample image:
 
 	* **Research Question.docx** (Word document, and with a space) should be **Research_Question.md** (markdown document, with an underscore—or hyphen, camelCase, etc.)
 	* **Inferno text** (no extension, and with a space) should be **Inferno_text.txt** (or something similar)
-	* Decide on capitalization and word division conventions for project. Currently **dante_website_layout.docx** is all lower case, the "research question" document capitalizes all words, and the "Inferno text" document capitalizes only the first word. Suggestions: all lower case.
+	* Decide on capitalization and word division conventions for project. Currently **dante\_website\_layout.docx** is all lower case, the "research question" document capitalizes all words, and the "Inferno text" document capitalizes only the first word. Suggestions: all lower case.
 
 
 ## From last time
