@@ -26,10 +26,7 @@ pain_phrase =
     element pain_phrase {
         mixed { (lb | sb | pain_word)* }
     }
-pain_word =
-    element pain_word {
-        mixed { synset?, inflicted }
-    }
+pain_word = element pain_word { synset?, inflicted, text }
 torture_phrase =
     element torture_phrase {
         type,
@@ -38,10 +35,7 @@ torture_phrase =
         inflictor,
         mixed { (lb | sb | torture_word)* }
     }
-torture_word =
-    element torture_word {
-        mixed { synset?, inflicted }
-    }
+torture_word = element torture_word { synset?, inflicted, text }
 synset = attribute synset { text }
 inflicted = attribute inflicted { text }
 type = attribute type { text }
