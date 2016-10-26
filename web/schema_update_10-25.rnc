@@ -1,31 +1,49 @@
 start = inferno
-inferno = element inferno { heading, toc, body, text }
-heading = element heading { title, author, translator }
+inferno = element inferno { heading, toc, body }
+heading = element heading { title, author, translator, pubinfo }
 title = element title { text }
 author = element author { text }
 translator = element translator { text }
-toc = element toc { text }
+pubinfo = element pubinfo { text }
+toc = element toc { item+ }
+item = element item { text }
 body = element body { canto+ }
 canto =
     element canto {
-        mixed { number, circle?, pouch_ring?, sin?, pain, torture, lb+, sb+ }
+        number,
+        circle?,
+        pouch_ring?,
+        sin?,
+        mixed { (pain_phrase | torture_phrase | lb | sb)* }
     }
-lb = element lb { empty }
-sb = element sb { empty }
 number = attribute stanza { text }
 circle = attribute circle { text }
 pouch_ring = attribute pouch_ring { text }
 sin = attribute sin { text }
-pain =
-    element pain {
-        mixed { part_speech?, inflicted }
+lb = element lb { empty }
+sb = element sb { empty }
+pain_phrase =
+    element pain_phrase {
+        mixed { (lb | sb | pain_word)* }
     }
-part_speech = attribute part_speech { text }
+pain_word =
+    element pain_word {
+        mixed { synset?, inflicted }
+    }
+torture_phrase =
+    element torture_phrase {
+        type,
+        category,
+        inflicted,
+        inflictor,
+        mixed { (lb | sb | torture_word)* }
+    }
+torture_word =
+    element torture_word {
+        mixed { synset?, inflicted }
+    }
+synset = attribute synset { text }
 inflicted = attribute inflicted { text }
-torture =
-    element torture {
-        mixed { type, category, inflicted, inflictor? }
-    }
 type = attribute type { text }
 category = attribute category { text }
 inflictor = attribute inflictor { text }
