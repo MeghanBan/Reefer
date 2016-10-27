@@ -1,7 +1,8 @@
 start = inferno
 inferno = element inferno { heading, toc, body }
-heading = element heading { title, author, translator, pubinfo }
+heading = element heading { title, sub_title, author, translator, pubinfo }
 title = element title { text }
+sub_title = element sub_title {text}
 author = element author { text }
 translator = element translator { text }
 pubinfo = element pubinfo { text }
