@@ -17,7 +17,7 @@ canto =
         sin?,
         mixed { (pain_phrase | torture_phrase | lb | sb)* }
     }
-number = attribute stanza { text }
+number = attribute number { text }
 circle = attribute circle { text }
 pouch_ring = attribute pouch_ring { text }
 sin = attribute sin { text }
