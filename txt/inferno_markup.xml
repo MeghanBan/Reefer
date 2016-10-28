@@ -1,4 +1,4 @@
-<?xml-model href="../web/schema_update_10-25.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../web/inferno_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <inferno>
     <heading>
         <title>The Divine Comedy</title>
@@ -91,6 +91,7 @@
             Judas Iscariot, Brutus, and Cassius. The Chasm of Lethe.
             The Ascent.</item>
     </toc>
+
 <body>
 
 <canto number="I">
