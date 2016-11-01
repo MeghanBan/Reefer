@@ -94,7 +94,7 @@
 
 <body>
 
-<canto number="I">
+<canto numeral="I"/>
 
 <sb/>
 <lb/>Midway upon the journey of our life
@@ -324,8 +324,8 @@
 <sb/>
 <lb/>Then he moved on, and I behind him followed.
 
-</canto>
-<canto number="II">
+
+<canto numeral="II"/>
 
 <sb/>
 <lb/>Day was departing, and the embrowned air
@@ -565,8 +565,8 @@
 <sb/>
 <lb/>I entered on the deep and savage way.
 
-</canto>
-<canto number="III">
+
+<canto numeral="III"/>
 
 <sb/>
 <lb/>"Through me the way is to the city dolent;
@@ -796,8 +796,9 @@
 <sb/>
 <lb/>And as a man whom sleep hath seized I fell.
 
-</canto>
-<canto number="IV">
+<circle number="1" main_sin="not-christian">
+
+<canto numeral="IV"/>
 
 <sb/>
 <lb/>Broke the deep lethargy within my head
@@ -1051,9 +1052,12 @@
 
 <sb/>
 <lb/>And to a place I come where nothing shines.
+    
+</circle>
 
-</canto>
-<canto number="V">
+<circle number="2" main_sin="lustful">
+
+<canto numeral="V"/>
 
 <sb/>
 <lb/>Thus I descended out of the first circle
@@ -1293,8 +1297,11 @@
 <sb/>
 <lb/>And fell, even as a dead body falls.
 
-</canto>
-<canto number="VI">
+</circle>
+
+<circle number="3" main_sin="gluttonous">
+    
+<canto numeral="VI"/>
 
 <sb/>
 <lb/>At the return of consciousness, that closed
@@ -1488,10 +1495,13 @@
 
 <sb/>
 <lb/>There we found Plutus the great enemy.
+    
+</circle>
+        
+<circle number="4" main_sin="avaricious_prodigal">    
 
-</canto>
-<canto number="VII">
-
+<canto numeral="VII"/>
+    
 <sb/>
 <lb/>"Pape Satan, Pape Satan, Aleppe!"
 <lb/>Thus Plutus with his clucking voice began;
@@ -1656,6 +1666,10 @@
 <lb/>Let us descend now unto greater woe;
 <lb/>Already sinks each star that was ascending
 <lb/>When I set out, and loitering is forbidden."
+    
+</circle>
+    
+<circle number="5" main_sin="wrathful_sullen">
 
 <sb/>
 <lb/>We crossed the circle to the other bank,
@@ -1710,8 +1724,9 @@
 <sb/>
 <lb/>Unto the foot of a tower we came at last.
 
-</canto>
-<canto number="VIII">
+</circle>
+
+<canto numeral="VIII"/>
 
 <sb/>
 <lb/>I say, continuing, that long before
@@ -1931,8 +1946,8 @@
 <sb/>
 <lb/>One by whose means the city shall be opened."
 
-</canto>
-<canto number="IX">
+
+<canto numeral="IX"/>
 
 <sb/>
 <lb/>That hue which cowardice brought out on me,
@@ -2157,8 +2172,9 @@
 <sb/>
 <lb/>Between the torments and high parapets.
 
-</canto>
-<canto number="X">
+<circle number="6" main_sin="heretic">
+
+<canto numeral="X"/>
 
 <sb/>
 <lb/>Now onward goes, along a narrow path
@@ -2388,8 +2404,7 @@
 <sb/>
 <lb/>Which even up there unpleasant made its stench.
 
-</canto>
-<canto number="XI">
+<canto numeral="XI"/>
 
 <sb/>
 <lb/>Upon the margin of a lofty bank
@@ -2584,9 +2599,12 @@
 <sb/>
 <lb/>And far beyond there we descend the crag."
 
-</canto>
-<canto number="XII">
-
+</circle>
+    
+<circle number="7" main_sin="violence">
+    
+<canto numeral="XII"/>
+    
 <sb/>
 <lb/>The place where to descend the bank we came
 <lb/>Was alpine, and from what was there, moreover,
@@ -2819,9 +2837,8 @@
 
 <sb/>
 <lb/>Then back he turned, and passed again the ford.
-
-</canto>
-<canto number="XIII">
+        
+<canto numeral="XIII"/>
 
 <sb/>
 <lb/>Not yet had Nessus reached the other side,
@@ -3076,8 +3093,7 @@
 <sb/>
 <lb/>Of my own house I made myself a gibbet."
 
-</canto>
-<canto number="XIV">
+<canto numeral="XIV"/>
 
 <sb/>
 <lb/>Because the charity of my native place
@@ -3317,8 +3333,7 @@
 <sb/>
 <lb/>And over them all vapours are extinguished."
 
-</canto>
-<canto number="XV">
+<canto numeral="XV"/>
 
 <sb/>
 <lb/>Now bears us onward one of the hard margins,
@@ -3527,10 +3542,9 @@
 
 <sb/>
 <lb/>The one who wins, and not the one who loses.
-
-</canto>
-<canto number="XVI">
-
+    
+<canto numeral="XVI"/>
+        
 <sb/>
 <lb/>Now was I where was heard the reverberation
 <lb/>Of water falling into the next round,
@@ -3758,9 +3772,8 @@
 
 <sb/>
 <lb/>Who upward stretches, and draws in his feet.
-
-</canto>
-<canto number="XVII">
+    
+<canto numeral="XVII"/>
 
 <sb/>
 <lb/>"Behold the monster with the pointed tail,
@@ -3990,8 +4003,11 @@
 <sb/>
 <lb/>He sped away as arrow from the string.
 
-</canto>
-<canto number="XVIII">
+</circle>    
+
+<circle number="8" main_sin="fraud">
+        
+<canto numeral="XVIII"/>
 
 <sb/>
 <lb/>There is a place in Hell called Malebolge,
@@ -4221,8 +4237,7 @@
 <sb/>
 <lb/>And herewith let our sight be satisfied."
 
-</canto>
-<canto number="XIX">
+<canto numeral="XIX"/>
 
 <sb/>
 <lb/>O Simon Magus, O forlorn disciples,
@@ -4446,9 +4461,8 @@
 
 <sb/>
 <lb/>Thence was unveiled to me another valley.
-
-</canto>
-<canto number="XX">
+    
+<canto numeral="XX"/>
 
 <sb/>
 <lb/>Of a new pain behoves me to make verses
@@ -4667,9 +4681,8 @@
 
 <sb/>
 <lb/>Thus spake he to me, and we walked the while.
-
-</canto>
-<canto number="XXI">
+    
+<canto numeral="XXI"/>
 
 <sb/>
 <lb/>From bridge to bridge thus, speaking other things
@@ -4903,9 +4916,8 @@
 
 <sb/>
 <lb/>And he had made a trumpet of his rump.
-
-</canto>
-<canto number="XXII">
+        
+<canto numeral="XXII"/>
 
 <sb/>
 <lb/>I have erewhile seen horsemen moving camp,
@@ -5160,8 +5172,7 @@
 <sb/>
 <lb/>And in this manner busied did we leave them.
 
-</canto>
-<canto number="XXIII">
+<canto numeral="XXIII"/>
 
 <sb/>
 <lb/>Silent, alone, and without company
@@ -5411,8 +5422,7 @@
 <sb/>
 <lb/>After the prints of his beloved feet.
 
-</canto>
-<canto number="XXIV">
+<canto numeral="XXIV"/>
 
 <sb/>
 <lb/>In that part of the youthful year wherein
@@ -5667,8 +5677,7 @@
 <sb/>
 <lb/>And this I've said that it may give thee pain."
 
-</canto>
-<canto number="XXV">
+<canto numeral="XXV"/>
 
 <sb/>
 <lb/>At the conclusion of his words, the thief
@@ -5923,8 +5932,7 @@
 <sb/>
 <lb/>The other was he whom thou, Gaville, weepest.
 
-</canto>
-<canto number="XXVI">
+<canto numeral="XXVI"/>
 
 <sb/>
 <lb/>Rejoice, O Florence, since thou art so great,
@@ -6164,8 +6172,7 @@
 <sb/>
 <lb/>Until the sea above us closed again."
 
-</canto>
-<canto number="XXVII">
+<canto numeral="XXVII"/>
 
 <sb/>
 <lb/>Already was the flame erect and quiet,
@@ -6395,8 +6402,7 @@
 <sb/>
 <lb/>By those who, sowing discord, win their burden.
 
-</canto>
-<canto number="XXVIII">
+<canto numeral="XXVIII"/>
 
 <sb/>
 <lb/>Who ever could, e'en with untrammelled words,
@@ -6636,8 +6642,7 @@
 <sb/>
 <lb/>Thus is observed in me the counterpoise."
 
-</canto>
-<canto number="XXIX">
+<canto numeral="XXIX"/>
 
 <sb/>
 <lb/>The many people and the divers wounds
@@ -6872,8 +6877,7 @@
 <sb/>
 <lb/>How I a skilful ape of nature was."
 
-</canto>
-<canto number="XXX">
+<canto numeral="XXX"/>
 
 <sb/>
 <lb/>'Twas at the time when Juno was enraged,
@@ -7123,8 +7127,7 @@
 <sb/>
 <lb/>For a base wish it is to wish to hear it."
 
-</canto>
-<canto number="XXXI">
+<canto numeral="XXXI"/>
 
 <sb/>
 <lb/>One and the selfsame tongue first wounded me,
@@ -7369,8 +7372,11 @@
 <sb/>
 <lb/>But, as a mast does in a ship, uprose.
 
-</canto>
-<canto number="XXXII">
+</circle>
+    
+<circle number="9" main_sin="traitor">
+
+<canto numeral="XXXII"/>
 
 <sb/>
 <lb/>If I had rhymes both rough and stridulous,
@@ -7605,8 +7611,8 @@
 <sb/>
 <lb/>If that wherewith I speak be not dried up."
 
-</canto>
-<canto number="XXXIII">
+
+<canto numeral="XXXIII"/>
 
 <sb/>
 <lb/>His mouth uplifted from his grim repast,
@@ -7871,8 +7877,8 @@
 <sb/>
 <lb/>And still above in body seems alive!
 
-</canto>
-<canto number="XXXIV">
+
+<canto numeral="XXXIV"/>
 
 <sb/>
 <lb/>"'Vexilla Regis prodeunt Inferni'
@@ -8106,6 +8112,8 @@
 
 <sb/>
 <lb/>Thence we came forth to rebehold the stars.
-</canto>
+    
+</circle>
+
 </body>
 </inferno>

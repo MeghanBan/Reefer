@@ -8,24 +8,23 @@ translator = element translator { text }
 pubinfo = element pubinfo { text }
 toc = element toc { item+ }
 item = element item { text }
-body = element body { canto+ }
-canto =
-    element canto {
-        number,
-        mixed { (circle | lb | sb)* }
-    }
-number = attribute number { text }
+body = element body { circle* | canto+ | lb+ | sb+ }
 circle =
     element circle {
-        numeral, sin,
-        mixed { (pouch_ring | pain_phrase | torture_phrase | lb | sb)* }
+        number,
+        main_sin,
+        mixed { (pouch_ring | pain_phrase | torture_phrase | lb | sb | canto)* }
     }
+canto = element canto { numeral }
+numeral = attribute numeral { text }
+main_sin = attribute main_sin { text }
 pouch_ring =
     element pouch_ring {
-        mixed { (pain_phrase | torture_phrase | lb | sb)* }
+        sub_sin,
+        mixed { (pain_phrase | torture_phrase | lb | sb | canto)* }
     }
-sin = attribute sin { text }
-numeral = attribute numeral { text }
+sub_sin = attribute sub_sin { text }
+number = attribute number { text }
 lb = element lb { empty }
 sb = element sb { empty }
 pain_phrase =
