@@ -1,0 +1,36 @@
+h1{
+    color: black;
+    text-align: center;
+    font-family: luminari;
+    display: block;
+    margin-right: auto;
+    letter-spacing: 1px
+
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: timesnewroman;
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: timesnewroman;
+    font-size: 20px
+}
+table,
+tr,
+td{
+    background-color: #990000;
+    text-align: center;
+    color: white;
+    display: block;
+    margin-right: auto;
+    width: 100%;
+    border: 1px solid;
+    margin-bottom: 12px
+}
+tr,
+td{
+    padding: 15px;
+}
