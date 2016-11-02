@@ -2604,6 +2604,8 @@
 <circle number="7" main_sin="violence">
     
 <canto numeral="XII"/>
+
+<pouch_ring number="1" sub_sin="violent_to_neighbor">
     
 <sb/>
 <lb/>The place where to descend the bank we came
@@ -2837,9 +2839,13 @@
 
 <sb/>
 <lb/>Then back he turned, and passed again the ford.
+    
+</pouch_ring>
         
 <canto numeral="XIII"/>
-
+    
+<pouch_ring number="2" sub_sin="violent_to_self">
+    
 <sb/>
 <lb/>Not yet had Nessus reached the other side,
 <lb/>When we had put ourselves within a wood,
@@ -3092,8 +3098,12 @@
 
 <sb/>
 <lb/>Of my own house I made myself a gibbet."
+    
+</pouch_ring>
 
 <canto numeral="XIV"/>
+    
+<pouch_ring number="3" sub_sin="violent_to_god">
 
 <sb/>
 <lb/>Because the charity of my native place
@@ -4003,11 +4013,15 @@
 <sb/>
 <lb/>He sped away as arrow from the string.
 
+</pouch_ring>
+    
 </circle>    
 
 <circle number="8" main_sin="fraud">
         
 <canto numeral="XVIII"/>
+    
+<pouch_ring number="1" sub_sin="panderer_seducer">
 
 <sb/>
 <lb/>There is a place in Hell called Malebolge,
@@ -4178,6 +4192,10 @@
 <lb/>We were already where the narrow path
 <lb/>Crosses athwart the second dike, and forms
 <lb/>Of that a buttress for another arch.
+    
+</pouch_ring>
+    
+<pouch_ring number="2" sub_sin="flatterer">
 
 <sb/>
 <lb/>Thence we heard people, who are making moan
@@ -4237,7 +4255,11 @@
 <sb/>
 <lb/>And herewith let our sight be satisfied."
 
+</pouch_ring>
+
 <canto numeral="XIX"/>
+
+<pouch_ring number="3" sub_sin="simonist">
 
 <sb/>
 <lb/>O Simon Magus, O forlorn disciples,
@@ -4462,7 +4484,11 @@
 <sb/>
 <lb/>Thence was unveiled to me another valley.
     
+</pouch_ring>
+
 <canto numeral="XX"/>
+
+<pouch_ring number="4" sub_sin="sorcerer">
 
 <sb/>
 <lb/>Of a new pain behoves me to make verses
@@ -4682,7 +4708,11 @@
 <sb/>
 <lb/>Thus spake he to me, and we walked the while.
     
+</pouch_ring>
+    
 <canto numeral="XXI"/>
+
+<pouch_ring number="5" sub_sin="barrator">
 
 <sb/>
 <lb/>From bridge to bridge thus, speaking other things
@@ -5269,6 +5299,10 @@
 <lb/>To place them ministers of the fifth moat,
 <lb/>The power of thence departing took from all.
 
+</pouch_ring>
+
+<pouch_ring number="6" sub_sin="hypocrite">
+
 <sb/>
 <lb/>A painted people there below we found,
 <lb/>Who went about with footsteps very slow,
@@ -5421,8 +5455,12 @@
 
 <sb/>
 <lb/>After the prints of his beloved feet.
+    
+</pouch_ring>
 
 <canto numeral="XXIV"/>
+    
+<pouch_ring number="7" sub_sin="thief">
 
 <sb/>
 <lb/>In that part of the youthful year wherein
@@ -5931,8 +5969,12 @@
 
 <sb/>
 <lb/>The other was he whom thou, Gaville, weepest.
+    
+</pouch_ring>
 
 <canto numeral="XXVI"/>
+    
+<pouch_ring number="8" sub_sin="fraudulent_counselor">
 
 <sb/>
 <lb/>Rejoice, O Florence, since thou art so great,
@@ -6401,8 +6443,12 @@
 
 <sb/>
 <lb/>By those who, sowing discord, win their burden.
+    
+</pouch_ring>
 
 <canto numeral="XXVIII"/>
+    
+<pouch_ring number="9" sub_sin="sower_of_discord">
 
 <sb/>
 <lb/>Who ever could, e'en with untrammelled words,
@@ -6641,8 +6687,12 @@
 
 <sb/>
 <lb/>Thus is observed in me the counterpoise."
+    
+</pouch_ring>
 
 <canto numeral="XXIX"/>
+    
+<pouch_ring number="10" sub_sin="falsifier">
 
 <sb/>
 <lb/>The many people and the divers wounds
@@ -7372,11 +7422,15 @@
 <sb/>
 <lb/>But, as a mast does in a ship, uprose.
 
+</pouch_ring>
+
 </circle>
     
 <circle number="9" main_sin="traitor">
 
 <canto numeral="XXXII"/>
+    
+<pouch_ring number="1" sub_sin="traitor_to_kin">
 
 <sb/>
 <lb/>If I had rhymes both rough and stridulous,
@@ -7523,6 +7577,10 @@
 <lb/>Who was blaspheming vehemently still:
 <lb/>"Who art thou, that thus reprehendest others?"
 
+</pouch_ring>
+
+<pouch_ring number="2" sub_sin="traitor_to_country">
+
 <sb/>
 <lb/>"Now who art thou, that goest through Antenora
 <lb/>Smiting," replied he, "other people's cheeks,
@@ -7610,7 +7668,6 @@
 
 <sb/>
 <lb/>If that wherewith I speak be not dried up."
-
 
 <canto numeral="XXXIII"/>
 
@@ -7818,6 +7875,8 @@
 <lb/>"O," said I to him, "now art thou, too, dead?"
 <lb/>And he to me: "How may my body fare
 <lb/>Up in the world, no knowledge I possess.
+
+</pouch_ring>
 
 <sb/>
 <lb/>Such an advantage has this Ptolomaea,
