@@ -1,4 +1,4 @@
-<?xml-model href="../web/inferno_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="inferno_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <inferno>
     <heading>
         <title>The Divine Comedy</title>
@@ -7878,6 +7878,8 @@
 
 </pouch_ring>
 
+<pouch_ring number="3" sub_sin="traitor_to_guest">
+
 <sb/>
 <lb/>Such an advantage has this Ptolomaea,
 <lb/>That oftentimes the soul descendeth here
@@ -7936,8 +7938,11 @@
 <sb/>
 <lb/>And still above in body seems alive!
 
+</pouch_ring>
 
 <canto numeral="XXXIV"/>
+    
+<pouch_ring number="4" sub_sin="traitor_to_benefactor">
 
 <sb/>
 <lb/>"'Vexilla Regis prodeunt Inferni'
@@ -8171,8 +8176,8 @@
 
 <sb/>
 <lb/>Thence we came forth to rebehold the stars.
-    
-</circle>
 
+</pouch_ring>
+</circle>
 </body>
 </inferno>
