@@ -33,3 +33,8 @@ XXXI = eighth circle, tenth pouch = fraud (falsifier)
 XXXII = ninth circle, first ring, second ring = traitor (traitor_to_kin, traitor_to_country)
 XXXIII = ninth circle, second ring, third ring = traitor (traitor_to_country, traitor to guest)
 XXXIV = ninth circle, fourth ring = traitor (traitor_to_benefactor)
+
+
+
+types of torture
+bitten, burn, shoot, boiled_in_blood, bodily_change, eaten, separated_from_body, 
