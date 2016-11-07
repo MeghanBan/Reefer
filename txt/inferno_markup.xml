@@ -1722,8 +1722,6 @@
 <sb/>
 <lb/>Unto the foot of a tower we came at last.
 
-</circle>
-
 <canto numeral="VIII"/>
 
 <sb/>
@@ -1943,8 +1941,11 @@
 
 <sb/>
 <lb/>One by whose means the city shall be opened."
+    
+</circle>
 
-
+<circle number="6" main_sin="heretic">
+        
 <canto numeral="IX"/>
 
 <sb/>
@@ -2143,13 +2144,13 @@
 <lb/>Saving that there the manner was more bitter;
 
 <sb/>
-<lb/>For flames between the sepulchres were scattered,
+<lb/><torture_phrase type="burn">For flames between the sepulchres were scattered,
 <lb/>By which they so intensely heated were,
-<lb/>That iron more so asks not any art.
+<lb/>That iron more so asks not any art.</torture_phrase>
 
 <sb/>
 <lb/>All of their coverings uplifted were,
-<lb/>And from them issued forth such dire laments,
+<lb/><pain_phrase>And from them issued forth such dire laments,</pain_phrase>
 <lb/>Sooth seemed they of the wretched and tormented.
 
 <sb/>
@@ -2169,8 +2170,6 @@
 
 <sb/>
 <lb/>Between the torments and high parapets.
-
-<circle number="6" main_sin="heretic">
 
 <canto numeral="X"/>
 
@@ -2627,7 +2626,7 @@
 
 <sb/>
 <lb/>Who was conceived in the fictitious cow;
-<lb/>And when he us beheld, he bit himself,
+<lb/>And when he us beheld, he <torture_phrase type="bitten">bit himself,</torture_phrase>
 <lb/>Even as one whom anger racks within.
 
 <sb/>
@@ -2727,7 +2726,7 @@
 
 <sb/>
 <lb/>Thousands and thousands go about the moat
-<lb/>Shooting with shafts whatever soul emerges
+<lb/><torture_phrase type="shoot">Shooting with shafts</torture_phrase> whatever soul emerges
 <lb/>Out of the blood, more than his crime allots."
 
 <sb/>
@@ -2773,7 +2772,7 @@
 <sb/>
 <lb/>We with our faithful escort onward moved
 <lb/>Along the brink of the vermilion boiling,
-<lb/>Wherein the boiled were uttering loud laments.
+<lb/>Wherein <pain_phrase>the boiled were uttering loud laments.</pain_phrase>
 
 <sb/>
 <lb/>People I saw within up to the eyebrows,
@@ -2797,8 +2796,8 @@
 
 <sb/>
 <lb/>A little farther on the Centaur stopped
-<lb/>Above a folk, who far down as the throat
-<lb/>Seemed from that boiling stream to issue forth.
+<lb/>Above a folk, <torture_phrase type="boiled_in_blood">who far down as the throat
+<lb/>Seemed from that boiling stream to issue forth.</torture_phrase>
 
 <sb/>
 <lb/>A shade he showed us on one side alone,
@@ -2897,15 +2896,15 @@
 <sb/>
 <lb/>Then stretched I forth my hand a little forward,
 <lb/>And plucked a branchlet off from a great thorn;
-<lb/>And the trunk cried, "Why dost thou mangle me?"
+<lb/><pain_phrase>And the trunk cried, "Why dost thou mangle me?"</pain_phrase>
 
 <sb/>
 <lb/>After it had become embrowned with blood,
-<lb/>It recommenced its cry: "Why dost thou rend me?
-<lb/>Hast thou no spirit of pity whatsoever?
+<lb/><pain_phrase>It recommenced its cry: "Why dost thou rend me?
+<lb/>Hast thou no spirit of pity whatsoever?</pain_phrase>
 
 <sb/>
-<lb/>Men once we were, and now are changed to trees;
+<lb/><torture_phrase type="bodily_change">Men once we were, and now are changed to trees;</torture_phrase>
 <lb/>Indeed, thy hand should be more pitiful,
 <lb/>Even if the souls of serpents we had been."
 
@@ -3011,8 +3010,8 @@
 
 <sb/>
 <lb/>It springs a sapling, and a forest tree;
-<lb/>The Harpies, feeding then upon its leaves,
-<lb/>Do pain create, and for the pain an outlet.
+<lb/><torture_phrase type="eaten">The Harpies, feeding then upon its leaves,
+<lb/>Do pain create, and for the pain an outlet.</torture_phrase>
 
 <sb/>
 <lb/>Like others for our spoils shall we return;
@@ -3021,8 +3020,8 @@
 
 <sb/>
 <lb/>Here we shall drag them, and along the dismal
-<lb/>Forest our bodies shall suspended be,
-<lb/>Each to the thorn of his molested shade."
+<lb/>Forest <torture_phrase type="separated_from_body">our bodies shall suspended be,
+<lb/>Each to the thorn of his molested shade."</torture_phrase>
 
 <sb/>
 <lb/>We were attentive still unto the trunk,
@@ -3056,13 +3055,13 @@
 
 <sb/>
 <lb/>On him who had crouched down they set their teeth,
-<lb/>And him they lacerated piece by piece,
+<lb/>And him they <torture_phrase type="eaten">lacerated piece by piece,</torture_phrase>
 <lb/>Thereafter bore away those aching members.
 
 <sb/>
 <lb/>Thereat my Escort took me by the hand,
 <lb/>And led me to the bush, that all in vain
-<lb/>Was weeping from its bloody lacerations.
+<lb/>Was <pain_phrase>weeping from its bloody lacerations.</pain_phrase>
 
 <sb/>
 <lb/>"O Jacopo," it said, "of Sant' Andrea,

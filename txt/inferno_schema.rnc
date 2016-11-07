@@ -33,16 +33,10 @@ pain_phrase =
 torture_phrase =
     element torture_phrase {
         type,
-        category,
-        inflicted,
-        inflictor,
         mixed { (lb | sb | torture_word)* }
     }
 sub_sin = attribute sub_sin { text }
-pain_word = element pain_word { synset?, inflicted, text }
-torture_word = element torture_word { synset?, inflicted, text }
+pain_word = element pain_word { synset?, text }
+torture_word = element torture_word { synset?, text }
 synset = attribute synset { text }
-inflicted = attribute inflicted { text }
 type = attribute type { text }
-category = attribute category { text }
-inflictor = attribute inflictor { text }
