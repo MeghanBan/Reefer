@@ -5,8 +5,11 @@
         <sub_title>Canticle I: Inferno</sub_title>
         <author>Dante Alighieri</author>
         <translator>Henry Wadsworth Longfellow</translator>
-        <pubinfo>INSERT TEXT HERE</pubinfo>
-        <!-- What is the publication info?-->
+        <pubinfo>
+            <date>DATE</date>
+            <pubPlace>PUBLISHING PLACE</pubPlace>
+            <url>URL</url>
+        </pubinfo>
     </heading>
     
     <toc>
@@ -2144,13 +2147,13 @@
 <lb/>Saving that there the manner was more bitter;
 
 <sb/>
-<lb/><torture_phrase type="burn">For flames between the sepulchres were scattered,
+<lb/><punishment_phrase type="burn">For flames between the sepulchres were scattered,
 <lb/>By which they so intensely heated were,
-<lb/>That iron more so asks not any art.</torture_phrase>
+<lb/>That iron more so asks not any art.</punishment_phrase>
 
 <sb/>
 <lb/>All of their coverings uplifted were,
-<lb/><pain_phrase>And from them issued forth such dire laments,</pain_phrase>
+<lb/><punishment_phrase>And from them issued forth such dire laments,</punishment_phrase>
 <lb/>Sooth seemed they of the wretched and tormented.
 
 <sb/>
@@ -2626,7 +2629,7 @@
 
 <sb/>
 <lb/>Who was conceived in the fictitious cow;
-<lb/>And when he us beheld, he <torture_phrase type="bitten">bit himself,</torture_phrase>
+<lb/>And when he us beheld, he <punishment_phrase type="bitten">bit himself,</punishment_phrase>
 <lb/>Even as one whom anger racks within.
 
 <sb/>
@@ -2726,7 +2729,7 @@
 
 <sb/>
 <lb/>Thousands and thousands go about the moat
-<lb/><torture_phrase type="shoot">Shooting with shafts</torture_phrase> whatever soul emerges
+<lb/><punishment_phrase type="shoot">Shooting with shafts</punishment_phrase> whatever soul emerges
 <lb/>Out of the blood, more than his crime allots."
 
 <sb/>
@@ -2772,7 +2775,7 @@
 <sb/>
 <lb/>We with our faithful escort onward moved
 <lb/>Along the brink of the vermilion boiling,
-<lb/>Wherein <pain_phrase>the boiled were uttering loud laments.</pain_phrase>
+<lb/>Wherein <punishment_phrase>the <torture_word>boiled</torture_word> were uttering loud <pain_word>laments</pain_word>.</punishment_phrase>
 
 <sb/>
 <lb/>People I saw within up to the eyebrows,
@@ -2796,8 +2799,8 @@
 
 <sb/>
 <lb/>A little farther on the Centaur stopped
-<lb/>Above a folk, <torture_phrase type="boiled_in_blood">who far down as the throat
-<lb/>Seemed from that boiling stream to issue forth.</torture_phrase>
+<lb/>Above a folk, <punishment_phrase type="boiled_in_blood">who far down as the throat
+<lb/>Seemed from that <torture_word>boiling</torture_word> stream to issue forth.</punishment_phrase>
 
 <sb/>
 <lb/>A shade he showed us on one side alone,
@@ -2896,15 +2899,15 @@
 <sb/>
 <lb/>Then stretched I forth my hand a little forward,
 <lb/>And plucked a branchlet off from a great thorn;
-<lb/><pain_phrase>And the trunk cried, "Why dost thou mangle me?"</pain_phrase>
+<lb/>And the trunk cried, "Why dost thou mangle me?"
 
 <sb/>
 <lb/>After it had become embrowned with blood,
-<lb/><pain_phrase>It recommenced its cry: "Why dost thou rend me?
-<lb/>Hast thou no spirit of pity whatsoever?</pain_phrase>
+<lb/>It recommenced its cry: "Why dost thou rend me?
+<lb/>Hast thou no spirit of pity whatsoever?
 
 <sb/>
-<lb/><torture_phrase type="bodily_change">Men once we were, and now are changed to trees;</torture_phrase>
+<lb/><punishment_phrase type="bodily_change">Men once we were, and now are changed to trees;</punishment_phrase>
 <lb/>Indeed, thy hand should be more pitiful,
 <lb/>Even if the souls of serpents we had been."
 
@@ -3010,8 +3013,8 @@
 
 <sb/>
 <lb/>It springs a sapling, and a forest tree;
-<lb/><torture_phrase type="eaten">The Harpies, feeding then upon its leaves,
-<lb/>Do pain create, and for the pain an outlet.</torture_phrase>
+<lb/><punishment_phrase type="eaten">The Harpies, feeding then upon its leaves,
+<lb/>Do pain create, and for the pain an outlet.</punishment_phrase>
 
 <sb/>
 <lb/>Like others for our spoils shall we return;
@@ -3020,8 +3023,8 @@
 
 <sb/>
 <lb/>Here we shall drag them, and along the dismal
-<lb/>Forest <torture_phrase type="separated_from_body">our bodies shall suspended be,
-<lb/>Each to the thorn of his molested shade."</torture_phrase>
+<lb/>Forest <punishment_phrase type="separated_from_body">our bodies shall suspended be,
+<lb/>Each to the thorn of his molested shade."</punishment_phrase>
 
 <sb/>
 <lb/>We were attentive still unto the trunk,
@@ -3055,13 +3058,13 @@
 
 <sb/>
 <lb/>On him who had crouched down they set their teeth,
-<lb/>And him they <torture_phrase type="eaten">lacerated piece by piece,</torture_phrase>
+<lb/>And him they <punishment_phrase type="eaten">lacerated piece by piece,</punishment_phrase>
 <lb/>Thereafter bore away those aching members.
 
 <sb/>
 <lb/>Thereat my Escort took me by the hand,
 <lb/>And led me to the bush, that all in vain
-<lb/>Was <pain_phrase>weeping from its bloody lacerations.</pain_phrase>
+<lb/>Was <punishment_phrase>weeping from its bloody lacerations.</punishment_phrase>
 
 <sb/>
 <lb/>"O Jacopo," it said, "of Sant' Andrea,
