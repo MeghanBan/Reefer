@@ -3352,7 +3352,7 @@
 
 <sb/>
 <lb/>Even as the Flemings, 'twixt Cadsand and Bruges,
-<lb/>Fearing the flood that tow'rds them hurls itself,
+<lb/><punishment_phrase>Fearing the flood that tow'rds them hurls itself,</punishment_phrase>
 <lb/>Their bulwarks build to put the sea to flight;
 
 <sb/>
@@ -3407,7 +3407,7 @@
 
 <sb/>
 <lb/>"O son," he said, "whoever of this herd
-<lb/>A moment stops, lies then a hundred years,
+<lb/><punishment_phrase>A moment stops, lies then a hundred years,</punishment_phrase>
 <lb/>Nor fans himself when smiteth him the fire.
 
 <sb/>
@@ -3571,8 +3571,8 @@
 <lb/>To be some one of our depraved city."
 
 <sb/>
-<lb/>Ah me! what wounds I saw upon their limbs,
-<lb/>Recent and ancient by the flames burnt in!
+<lb/>Ah me! what <punishment_phrase><pain_word>wounds</pain_word> I saw upon their limbs,</punishment_phrase>
+<lb/>Recent and ancient by the <punishment_phrase><torture_word>flames</torture_word> burnt in!</punishment_phrase>
 <lb/>It pains me still but to remember it.
 
 <sb/>
@@ -3868,11 +3868,11 @@
 <sb/>
 <lb/>Not otherwise in summer do the dogs,
 <lb/>Now with the foot, now with the muzzle, when
-<lb/>By fleas, or flies, or gadflies, they are bitten.
+<lb/><punishment_phrase>By fleas, or flies, or gadflies, they are bitten.</punishment_phrase>
 
 <sb/>
 <lb/>When I had turned mine eyes upon the faces
-<lb/>Of some, on whom the dolorous fire is falling,
+<lb/>Of some, <punishment_phrase>on whom the dolorous <torture_word>fire</torture_word> is falling,</punishment_phrase>
 <lb/>Not one of them I knew; but I perceived
 
 <sb/>
@@ -4064,7 +4064,7 @@
 <lb/>Wherewith the foremost Bolgia was replete.
 
 <sb/>
-<lb/>Down at the bottom were the sinners naked;
+<lb/><punishment_phrase>Down at the bottom were the sinners <torture_word>naked</torture_word>;</punishment_phrase>
 <lb/>This side the middle came they facing us,
 <lb/>Beyond it, with us, but with greater steps;
 
@@ -4080,9 +4080,9 @@
 
 <sb/>
 <lb/>This side and that, along the livid stone
-<lb/>Beheld I horned demons with great scourges,
-<lb/>Who cruelly were beating them behind.
-
+<lb/>Beheld I <punishment_phrase>horned demons with great scourges,
+<lb/>Who cruelly were <torture_word>beating</torture_word> them behind.
+</punishment_phrase>
 <sb/>
 <lb/>Ah me! how they did make them lift their legs
 <lb/>At the first blows! and sooth not any one
@@ -4214,8 +4214,8 @@
 
 <sb/>
 <lb/>Thither we came, and thence down in the moat
-<lb/>I saw a people smothered in a filth
-<lb/>That out of human privies seemed to flow;
+<lb/>I saw a <punishment_phrase>people <torture_word>smothered</torture_word> in a filth
+<lb/>That out of human privies seemed to flow;</punishment_phrase>
 
 <sb/>
 <lb/>And whilst below there with mine eye I search,
@@ -4297,13 +4297,13 @@
 <lb/>Be this a seal all men to undeceive.
 
 <sb/>
-<lb/>Out of the mouth of each one there protruded
+<lb/><punishment_phrase>Out of the mouth of each one there protruded
 <lb/>The feet of a transgressor, and the legs
-<lb/>Up to the calf, the rest within remained.
+<lb/>Up to the calf, the rest within remained.</punishment_phrase>
 
 <sb/>
-<lb/>In all of them the soles were both on fire;
-<lb/>Wherefore the joints so violently quivered,
+<lb/>In all of them <punishment_phrase>the soles were both on <torture_word>fire</torture_word>;
+<lb/>Wherefore the joints so violently <pain_word>quivered</pain_word>,</punishment_phrase>
 <lb/>They would have snapped asunder withes and bands.
 
 <sb/>
@@ -4325,6 +4325,10 @@
 <lb/>And I: "What pleases thee, to me is pleasing;
 <lb/>Thou art my Lord, and knowest that I depart not
 <lb/>From thy desire, and knowest what is not spoken."
+
+</pouch_ring>
+
+<pouch_ring number="4" sub_sin="sorcerer">
 
 <sb/>
 <lb/>Straightway upon the fourth dike we arrived;
@@ -4488,7 +4492,7 @@
 
 <canto numeral="XX"/>
 
-<pouch_ring number="4" sub_sin="sorcerer">
+<pouch_ring number="5" sub_sin=""></pouch_ring>
 
 <sb/>
 <lb/>Of a new pain behoves me to make verses
@@ -4708,7 +4712,7 @@
 <sb/>
 <lb/>Thus spake he to me, and we walked the while.
     
-</pouch_ring>
+
     
 <canto numeral="XXI"/>
 
