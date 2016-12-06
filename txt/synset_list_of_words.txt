@@ -1,0 +1,502 @@
+torture_word
+boiled
+•	["Synset('boil.v.01') means: come to the boiling point and change from a liquid to vapor",
+•	"Synset('boil.v.02') means: immerse or be immersed in a boiling liquid, often for cooking purposes",
+•	"Synset('boil.v.03') means: bring to, or maintain at, the boiling point", 
+•	"Synset('churn.v.02') means: be agitated",
+•	"Synset('seethe.v.02') means: be in an agitated emotional state", 
+•	"Synset('boiled.s.01') means: cooked in hot water"]
+
+boiling
+•	["Synset('boiling.n.01') means: the application of heat to change something from a liquid to a gas",
+•	"Synset('boiling.n.02') means: cooking in a liquid that has been brought to a boil",
+•	"Synset('boil.v.01') means: come to the boiling point and change from a liquid to vapor",
+•	"Synset('boil.v.02') means: immerse or be immersed in a boiling liquid, often for cooking purposes",
+•	"Synset('boil.v.03') means: bring to, or maintain at, the boiling point", 
+•	"Synset('churn.v.02') means: be agitated",
+•	"Synset('seethe.v.02') means: be in an agitated emotional state", 
+•	"Synset('boiling.r.01') means: extremely"]
+
+fire
+•	["Synset('fire.n.01') means: the event of something burning (often destructive)", 
+•	"Synset('fire.n.02') means: the act of firing weapons or artillery at an enemy", 
+•	"Synset('fire.n.03') means: the process of combustion of inflammable materials producing heat and light and (often) smoke", 
+•	"Synset('fire.n.04') means: a fireplace in which a relatively small fire is burning", 
+•	"Synset('fire.n.05') means: once thought to be one of four elements composing the universe (Empedocles)", 
+•	"Synset('ardor.n.03') means: feelings of great warmth and intensity", "
+•	Synset('fire.n.07') means: fuel that is burning and is used as a means for cooking", 
+•	"Synset('fire.n.08') means: a severe trial", 
+•	"Synset('fire.n.09') means: intense adverse criticism", 
+•	"Synset('open_fire.v.01') means: start firing a weapon", 
+•	"Synset('fire.v.02') means: cause to go off", 
+•	"Synset('fire.v.03') means: bake in a kiln so as to harden", 
+•	"Synset('displace.v.03') means: terminate the employment of; discharge from an office or position", 
+•	"Synset('fire.v.05') means: go off or discharge", "
+•	Synset('fire.v.06') means: drive out or away by or as if by fire",
+•	 "Synset('arouse.v.01') means: call forth (emotions, feelings, and responses)",
+•	 "Synset('burn.v.01') means: destroy by fire", 
+•	"Synset('fuel.v.02') means: provide with fuel"]
+
+flames
+•	["Synset('fire.n.03') means: the process of combustion of inflammable materials producing heat and light and (often) smoke", 
+•	"Synset('flare.v.03') means: shine with a sudden light", 
+•	"Synset('flame.v.02') means: be in flames or aflame", 
+•	"Synset('flame.v.03') means: criticize harshly, usually via an electronic medium"]
+
+naked
+•	["Synset('bare.s.01') means: completely unclothed", 
+•	"Synset('naked.s.02') means: having no protecting or concealing cover", 
+•	"Synset('naked.s.03') means: (of the eye or ear e.g.) without the aid of an optical or acoustical device or instrument", 
+•	"Synset('naked.s.04') means: devoid of elaboration or diminution or concealment; bare and pure", 
+•	"Synset('naked.s.05') means: lacking any cover"]
+
+beating
+•	["Synset('beating.n.01') means: the act of overcoming or outdoing", 
+•	"Synset('beating.n.02') means: the act of inflicting corporal punishment with repeated blows", 
+•	"Synset('beat.v.01') means: come out better in a competition, race, or conflict", 
+•	"Synset('beat.v.02') means: give a beating to; subject to a beating, either as a punishment or as an act of aggression", 
+•	"Synset('beat.v.03') means: hit repeatedly",
+•	 "Synset('beat.v.04') means: move rhythmically", 
+•	"Synset('beat.v.05') means: shape by beating", 
+•	"Synset('drum.v.01') means: make a rhythmic sound", 
+•	"Synset('beat.v.07') means: glare or strike with great intensity", 
+•	"Synset('beat.v.08') means: move with a thrashing motion", 
+•	"Synset('beat.v.09') means: sail with much tacking or with difficulty", 
+•	"Synset('beat.v.10') means: stir vigorously", 
+•	"Synset('beat.v.11') means: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music", 
+•	"Synset('beat.v.12') means: be superior", 
+•	"Synset('beat.v.13') means: avoid paying", 
+•	"Synset('tick.v.02') means: make a sound like a clock or a timer", 
+•	"Synset('beat.v.15') means: move with a flapping motion", 
+•	"Synset('beat.v.16') means: indicate by beating, as with the fingers or drumsticks", 
+•	"Synset('pulsate.v.02') means: move with or as if with a regular alternating motion", "
+•	Synset('beat.v.18') means: make by pounding or trampling", 
+•	"Synset('beat.v.19') means: produce a rhythm by striking repeatedly", 
+•	"Synset('beat.v.20') means: strike (water or bushes) repeatedly to rouse animals for hunting", 
+•	"Synset('outwit.v.01') means: beat through cleverness and wit",
+•	 "Synset('perplex.v.01') means: be a mystery or bewildering to", "
+•	Synset('exhaust.v.01') means: wear out completely"]
+
+smothered
+•	["Synset('smother.v.01') means: envelop completely", 
+•	"Synset('smother.v.02') means: deprive of oxygen and prevent from breathing", 
+•	"Synset('smother.v.03') means: conceal or hide", 
+•	"Synset('smother.v.04') means: form an impenetrable cover over", 
+•	"Synset('smother.v.05') means: deprive of the oxygen necessary for combustion", 
+•	"Synset('smothered.s.01') means: held in check with difficulty", "
+•	Synset('smothered.s.02') means: completely covered"]
+
+backward
+•	["Synset('backward.a.01') means: directed or facing toward the back or rear", 
+•	"Synset('backward.a.02') means: (used of temperament or behavior) marked by a retiring nature", 
+•	"Synset('backward.s.03') means: retarded in intellectual development", 
+•	"Synset('backward.s.04') means: having made less than normal progress", 
+•	"Synset('back.r.02') means: at or to or toward the back or rear", 
+•	"Synset('backward.r.02') means: in a manner or order or direction the reverse of normal", 
+•	"Synset('back.r.04') means: in or to or toward a past time"]
+
+palsy
+•	["Synset('paralysis.n.01') means: loss of the ability to move a body part", 
+•	"Synset('palsy.n.02') means: a condition marked by uncontrollable tremor", 
+•	"Synset('palsy.v.01') means: affect with palsy"]
+
+plunge
+•	["Synset('dip.n.08') means: a brief swim in water", 
+•	"Synset('plunge.n.02') means: a steep and rapid fall", 
+•	"Synset('immerse.v.01') means: thrust or throw into", "
+•	Synset('dive.v.01') means: drop steeply", 
+•	"Synset('plunge.v.03') means: dash violently or with great speed or impetuosity", 
+•	"Synset('plunge.v.04') means: begin with vigor", 
+•	"Synset('plunge.v.05') means: cause to be immersed", 
+•	"Synset('plunge.v.06') means: fall abruptly", 
+•	"Synset('dunk.v.01') means: immerse briefly into a liquid so as to wet, coat, or saturate", 
+•	"Synset('steep.v.01') means: devote (oneself) fully to"]
+
+hurled
+•	["Synset('hurl.v.01') means: throw forcefully", 
+•	"Synset('lunge.v.01') means: make a thrusting forward movement", 
+•	"Synset('hurl.v.03') means: utter with force; utter vehemently"]
+
+rakes
+•	["Synset('rake.n.01') means: a dissolute man in fashionable society", 
+•	"Synset('pitch.n.05') means: degree of deviation from a horizontal plane", "
+•	Synset('rake.n.03') means: a long-handled tool with a row of teeth at its head; used to move leaves or loosen soil", 
+•	"Synset('rake.v.01') means: move through with or as if with a rake", 
+•	"Synset('rake.v.02') means: level or smooth with a rake", 
+•	"Synset('rake.v.03') means: sweep the length of", 
+•	"Synset('scan.v.02') means: examine hastily", 
+•	"Synset('rake.v.05') means: gather with a rake",
+•	 "Synset('graze.v.04') means: scrape gently"]
+
+burned
+•	["Synset('burn.v.01') means: destroy by fire", 
+•	"Synset('burn.v.02') means: shine intensely, as if with heat", 
+•	"Synset('burn.v.03') means: undergo combustion",
+•	 "Synset('bite.v.02') means: cause a sharp or stinging pain or discomfort", 
+•	"Synset('burn.v.05') means: cause to burn or combust", 
+•	"Synset('burn.v.06') means: feel strong emotion, especially anger or passion",
+•	 "Synset('burn.v.07') means: cause to undergo combustion", 
+•	"Synset('burn.v.08') means: burn at the stake", 
+•	"Synset('burn.v.09') means: spend (significant amounts of money)",
+•	 "Synset('burn.v.10') means: feel hot or painful", 
+•	"Synset('cauterize.v.01') means: burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent", 
+•	"Synset('sunburn.v.01') means: get a sunburn by overexposure to the sun", 
+•	"Synset('cut.v.21') means: create by duplicating data", 
+•	"Synset('burn_off.v.01') means: use up (energy)", 
+•	"Synset('burn.v.15') means: burn with heat, fire, or radiation", 
+•	"Synset('burned.s.01') means: treated by heating to a high temperature but below the melting or fusing point", 
+•	"Synset('burned.s.02') means: destroyed or badly damaged by fire", 
+•	"Synset('burned.s.03') means: ruined by overcooking"]
+
+grappled
+•	["Synset('cope.v.01') means: come to terms with",
+•	 "Synset('grapple.v.02') means: to grip or seize, as in a wrestling match"]
+
+flay
+•	["Synset('flay.v.01') means: strip the skin off"]
+
+enfork
+[]
+
+tore
+•	["Synset('torus.n.02') means: commonly the lowest molding at the base of a column", 
+•	"Synset('tear.v.01') means: separate or cause to separate abruptly", 
+•	"Synset('tear.v.02') means: to separate or be separated by force", 
+•	"Synset('tear.v.03') means: move quickly and violently", 
+•	"Synset('pluck.v.05') means: strip of feathers", 
+•	"Synset('tear.v.05') means: fill with tears or shed tears"]
+
+heavy
+•	["Synset('heavy.n.01') means: an actor who plays villainous roles", 
+•	"Synset('heavy.n.02') means: a serious (or tragic) role in a play",
+•	 "Synset('heavy.a.01') means: of comparatively great physical weight or density", 
+•	"Synset('heavy.a.02') means: unusually great in degree or quantity or number", 
+•	"Synset('heavy.a.03') means: of the military or industry; using (or being) the heaviest and most powerful armaments or weapons or equipment", "
+•	Synset('heavy.a.04') means: marked by great psychological weight; weighted down especially with sadness or troubles or weariness",
+•	 "Synset('fleshy.s.01') means: usually describes a large person who is fat but has a large frame to carry it", 
+•	"Synset('clayey.s.02') means: (used of soil) compact and fine-grained",
+•	 "Synset('heavy.s.07') means: darkened by clouds", 
+•	"Synset('heavy.a.08') means: of great intensity or power or force", 
+•	"Synset('heavy.a.09') means: (physics, chemistry) being or containing an isotope with greater than average atomic mass or weight", 
+•	"Synset('heavy.s.10') means: (of an actor or role) being or playing the villain", 
+•	"Synset('dense.s.01') means: permitting little if any light to pass through because of denseness of matter", 
+•	"Synset('heavy.s.12') means: of relatively large extent and density", 
+•	"Synset('heavy.s.13') means: made of fabric having considerable thickness", 
+•	"Synset('big.s.06') means: prodigious", 
+•	"Synset('heavy.s.15') means: full and loud and deep",
+•	 "Synset('intemperate.s.03') means: given to excessive indulgence of bodily appetites especially for intoxicating liquors", 
+•	"Synset('grave.s.03') means: of great gravity or crucial import; requiring serious thought", 
+•	"Synset('heavy.s.18') means: slow and laborious because of weight", 
+•	"Synset('heavy.s.19') means: large and powerful; especially designed for heavy loads or rough work", 
+•	"Synset('heavy.s.20') means: dense or inadequately leavened and hence likely to cause distress in the alimentary canal",
+•	 "Synset('heavy.s.21') means: sharply inclined",
+•	 "Synset('heavy.s.22') means: full of; bearing great weight", 
+•	"Synset('heavy.s.23') means: requiring or showing effort", 
+•	"Synset('arduous.s.01') means: characterized by effort to the point of exhaustion; especially physical effort", 
+•	"Synset('heavy.s.25') means: lacking lightness or liveliness", 
+•	"Synset('heavy.s.26') means: (of sleep) deep and complete", 
+•	"Synset('big.s.13') means: in an advanced stage of pregnancy", 
+•	"Synset('heavy.r.01') means: slowly as if burdened by much weight"]
+
+lead
+•	["Synset('lead.n.01') means: an advantage held by a competitor in a race", 
+•	"Synset('lead.n.02') means: a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey", 
+•	"Synset('lead.n.03') means: evidence pointing to a possible solution", 
+•	"Synset('lead.n.04') means: a position of leadership (especially in the phrase `take the lead')", 
+•	Synset('lead.n.05') means: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)", 
+•	"Synset('lead.n.06') means: the introductory section of a story", 
+•	"Synset('lead.n.07') means: (sports) the score by which a team or individual is winning", 
+•	"Synset('star.n.04') means: an actor who plays a principal role", 
+•	"Synset('lead.n.09') means: (baseball) the position taken by a base runner preparing to advance to the next base", "
+•	Synset('tip.n.03') means: an indication of potential opportunity",
+•	 "Synset('lead.n.11') means: a news story of major importance", 
+•	"Synset('spark_advance.n.01') means: the timing of ignition relative to the position of the piston in an internal-combustion engine", 
+•	"Synset('leash.n.01') means: restraint consisting of a rope (or light chain) used to restrain an animal", 
+•	"Synset('lead.n.14') means: thin strip of metal used to separate lines of type in printing", 
+•	"Synset('lead.n.15') means: mixture of graphite with clay in different degrees of hardness; the marking substance in a pencil", 
+•	"Synset('jumper_cable.n.01') means: a jumper that consists of a short piece of wire", 
+•	"Synset('lead.n.17') means: the playing of a card to start a trick in bridge", 
+•	"Synset('lead.v.01') means: take somebody somewhere", 
+•	"Synset('leave.v.07') means: have as a result or residue", 
+•	"Synset('lead.v.03') means: tend to or result in", 
+•	"Synset('lead.v.04') means: travel in front of; go in advance of others", 
+•	"Synset('lead.v.05') means: cause to undertake a certain action", 
+•	"Synset('run.v.03') means: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point", "
+•	Synset('head.v.02') means: be in charge of", 
+•	"Synset('lead.v.08') means: be ahead of others; be the first", 
+•	"Synset('contribute.v.03') means: be conducive to", 
+•	'Synset(\'conduct.v.02\') means: lead, as in the performance of a composition; Barenboim conducted the Chicago symphony for years"', 
+•	"Synset('go.v.25') means: lead, extend, or afford access", "
+•	Synset('precede.v.04') means: move ahead (of others) in time or space", 
+•	"Synset('run.v.23') means: cause something to pass or lead somewhere", 
+•	"Synset('moderate.v.01') means: preside over"]
+
+crucified
+•	["Synset('crucify.v.01') means: kill by nailing onto a cross", 
+•	"Synset('torment.v.02') means: treat cruelly", 
+•	"Synset('mortify.v.02') means: hold within limits and control", 
+•	"Synset('savage.v.02') means: criticize harshly or violently"]
+
+crosswise
+•	["Synset('crosswise.a.01') means: lying or extending across the length of a thing or in a cross direction", 
+•	"Synset('crosswise.s.02') means: in the shape of (a horizontal piece on) a cross", 
+•	"Synset('crosswise.r.01') means: not in the intended manner", 
+•	"Synset('across.r.02') means: transversely"]
+
+weighs
+•	["Synset('weigh.v.01') means: have a certain weight", 
+•	"Synset('consider.v.04') means: show consideration for; take into account", 
+•	"Synset('weigh.v.03') means: determine the weight of", 
+•	"Synset('count.v.02') means: have weight; have import, carry weight", 
+•	"Synset('weigh.v.05') means: to be oppressive or burdensome"]
+
+serpents
+•	["Synset('snake.n.01') means: limbless scaly elongate reptile; some are venomous", 
+•	"Synset('serpent.n.02') means: a firework that moves in serpentine manner when ignited", 
+•	"Synset('serpent.n.03') means: an obsolete bass cornet; resembles a snake"]
+
+bound
+•	["Synset('boundary.n.02') means: a line determining the limits of an area", 
+•	"Synset('boundary.n.01') means: the line or plane indicating the limit or extent of something", 
+•	"Synset('limit.n.01') means: the greatest possible degree of something", 
+•	"Synset('leap.n.01') means: a light, self-propelled movement upwards or forwards", 
+•	"Synset('jump.v.01') means: move forward by leaps and bounds",
+•	 "Synset('bound.v.02') means: form the boundary of; be contiguous to", 
+•	"Synset('restrict.v.03') means: place limits on (extent or access)", "
+•	Synset('bounce.v.01') means: spring back; spring away from an impact",
+•	 "Synset('adhere.v.06') means: stick to firmly", 
+•	"Synset('bind.v.02') means: create social or emotional ties", 
+•	"Synset('bind.v.03') means: make fast; tie or secure, with or as if with a rope", 
+•	"Synset('bind.v.04') means: wrap around with something so as to cover or enclose", 
+•	"Synset('tie_down.v.01') means: secure with or as if with ropes", 
+•	"Synset('oblige.v.02') means: bind by an obligation; cause to be indebted", 
+•	"Synset('bind.v.07') means: provide with a binding", 
+•	"Synset('tie.v.01') means: fasten or secure with a rope, string, or cord",
+•	 "Synset('bind.v.09') means: form a chemical bond with", 
+•	"Synset('constipate.v.02') means: cause to be constipated",
+•	 "Synset('bound.a.01') means: confined by bonds", 
+•	"Synset('bound.a.02') means: held with another element, substance or material in chemical or physical union", 
+•	"Synset('bound.a.03') means: secured with a cover or binding; often used as a combining form", 
+•	"Synset('bound.s.04') means: (usually followed by `to') governed by fate", "
+•	Synset('bandaged.s.01') means: covered or wrapped with a bandage",
+•	 "Synset('bound.s.06') means: headed or intending to head in a certain direction; often used as a combining form as in `college-bound students'",
+•	 "Synset('bound.s.07') means: bound by an oath", 
+•	"Synset('apprenticed.s.01') means: bound by contract", 
+•	"Synset('bound.s.09') means: confined in the bowels"]
+
+entwined
+•	["Synset('knit.v.02') means: tie or link together",
+•	 "Synset('intertwine.v.01') means: spin, wind, or twist together"]
+
+transfixed
+•	["Synset('fascinate.v.02') means: to render motionless, as with a fixed stare or by arousing terror or awe", 
+•	"Synset('transfix.v.02') means: pierce with a sharp stake or point", 
+•	"Synset('fascinated.s.01') means: having your attention fixated as though by a spell"]
+
+thrust
+•	["Synset('push.n.02') means: the force used in pushing", 
+•	"Synset('stab.n.02') means: a strong blow with a knife or other sharp pointed instrument", 
+•	"Synset('drive.n.01') means: the act of applying force to propel something", 
+•	"Synset('thrust.n.04') means: verbal criticism", 
+•	"Synset('jab.n.01') means: a sharp hand gesture (resembling a blow)",
+•	 "Synset('thrust.v.01') means: push forcefully", 
+•	"Synset('thrust.v.02') means: press or force", 
+•	"Synset('lunge.v.01') means: make a thrusting forward movement", 
+•	"Synset('force.v.04') means: impose urgently, importunately, or inexorably", "
+•	Synset('pierce.v.04') means: penetrate or cut through with a sharp instrument", 
+•	"Synset('thrust.v.06') means: force (molten rock) into pre-existing rock", 
+•	"Synset('thrust.v.07') means: push upward",
+•	 "Synset('throw.v.04') means: place or put with great energy"]
+
+fires
+•	["Synset('fire.n.01') means: the event of something burning (often destructive)", 
+•	"Synset('fire.n.02') means: the act of firing weapons or artillery at an enemy", 
+•	"Synset('fire.n.03') means: the process of combustion of inflammable materials producing heat and light and (often) smoke", 
+•	"Synset('fire.n.04') means: a fireplace in which a relatively small fire is burning",
+•	 "Synset('fire.n.05') means: once thought to be one of four elements composing the universe (Empedocles)", "
+•	Synset('ardor.n.03') means: feelings of great warmth and intensity", 
+•	"Synset('fire.n.07') means: fuel that is burning and is used as a means for cooking", 
+•	"Synset('fire.n.08') means: a severe trial", 
+•	"Synset('fire.n.09') means: intense adverse criticism",
+•	 "Synset('open_fire.v.01') means: start firing a weapon",
+•	 "Synset('fire.v.02') means: cause to go off", "Synset('fire.v.03') means: bake in a kiln so as to harden", 
+•	"Synset('displace.v.03') means: terminate the employment of; discharge from an office or position", 
+•	"Synset('fire.v.05') means: go off or discharge", 
+•	"Synset('fire.v.06') means: drive out or away by or as if by fire", 
+•	"Synset('arouse.v.01') means: call forth (emotions, feelings, and responses)", 
+•	"Synset('burn.v.01') means: destroy by fire", 
+•	"Synset('fuel.v.02') means: provide with fuel"]
+
+burns
+•	["Synset('burns.n.01') means: United States comedian and film actor (1896-1996)", 
+•	"Synset('burns.n.02') means: celebrated Scottish poet (1759-1796)", 
+•	"Synset('burn.n.01') means: pain that feels hot as if it were on fire", 
+•	"Synset('tan.n.01') means: a browning of the skin resulting from exposure to the rays of the sun", 
+•	"Synset('burn.n.03') means: an injury caused by exposure to heat or chemicals or radiation", 
+•	"Synset('burn.n.04') means: a place or area that has been burned (especially on a person's body)", 
+•	"Synset('burn.n.05') means: damage inflicted by fire", 
+•	"Synset('burn.v.01') means: destroy by fire", 
+•	"Synset('burn.v.02') means: shine intensely, as if with heat", 
+•	"Synset('burn.v.03') means: undergo combustion", 
+•	"Synset('bite.v.02') means: cause a sharp or stinging pain or discomfort",
+•	 "Synset('burn.v.05') means: cause to burn or combust",
+•	 "Synset('burn.v.06') means: feel strong emotion, especially anger or passion", 
+•	"Synset('burn.v.07') means: cause to undergo combustion", 
+•	"Synset('burn.v.08') means: burn at the stake", 
+•	"Synset('burn.v.09') means: spend (significant amounts of money)",
+•	"Synset('burn.v.10') means: feel hot or painful", 
+•	"Synset('cauterize.v.01') means: burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent", 
+•	"Synset('sunburn.v.01') means: get a sunburn by overexposure to the sun", 
+•	"Synset('cut.v.21') means: create by duplicating data",
+•	 "Synset('burn_off.v.01') means: use up (energy)", 
+•	"Synset('burn.v.15') means: burn with heat, fire, or radiation"]
+
+cleave
+•	["Synset('cleave.v.01') means: separate or cut with a tool, such as a sharp instrument", 
+•	"Synset('cleave.v.02') means: make by cutting into",
+•	 "Synset('cling.v.01') means: come or be in close contact with; stick or hold together and resist separation"]
+
+slit
+•	["Synset('slit.n.01') means: a long narrow opening", 
+•	"Synset('cunt.n.02') means: obscene terms for female genitals",
+•	 "Synset('incision.n.01') means: a depression scratched or carved into a surface", 
+•	"Synset('slit.n.04') means: a narrow fissure", 
+•	"Synset('slit.v.01') means: make a clean cut through", 
+•	"Synset('slit.v.02') means: cut a slit into"]
+
+dissevered
+•	["Synset('divide.v.01') means: separate into parts or portions"]
+
+diseases
+•	["Synset('disease.n.01') means: an impairment of health or a condition of abnormal functioning"]
+
+stench
+•	["Synset('malodor.n.01') means: a distinctive odor that is offensively unpleasant"]
+
+scabs
+•	["Synset('scab.n.01') means: someone who works (or provides workers) during a strike", 
+•	"Synset('scab.n.02') means: the crustlike surface of a healing skin lesion", 
+•	"Synset('scab.v.01') means: form a scab", 
+•	"Synset('fink.v.01') means: take the place of work of someone on strike"]
+
+itching
+•	["Synset('itch.n.03') means: an irritating cutaneous sensation that produces a desire to scratch", 
+•	"Synset('rub.v.03') means: scrape or rub as if to relieve itching", 
+•	"Synset('itch.v.02') means: have or perceive an itch", 
+•	"Synset('itch.v.03') means: cause to perceive an itch", 
+•	"Synset('itch.v.04') means: have a strong desire or urge to do something"]
+
+teeth
+•	["Synset('dentition.n.02') means: the kind and number and arrangement of teeth (collectively) in a person or animal", 
+•	"Synset('tooth.n.01') means: hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense", 
+•	"Synset('tooth.n.02') means: something resembling the tooth of an animal", 
+•	"Synset('tooth.n.03') means: toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell", 
+•	"Synset('tooth.n.04') means: a means of enforcement",
+•	 "Synset('tooth.n.05') means: one of a number of uniform projections on a gear"]
+
+cut
+•	["Synset('cut.n.01') means: a share of the profits", 
+•	"Synset('cut.n.02') means: (film) an immediate transition from one shot to the next", 
+•	"Synset('cut.n.03') means: a trench resembling a furrow that was made by erosion or excavation", 
+•	"Synset('cut.n.04') means: a step on some scale",
+•	 "Synset('cut.n.05') means: a wound made by cutting", 
+•	"Synset('cut.n.06') means: a piece of meat that has been cut from an animal carcass", 
+•	"Synset('stinger.n.02') means: a remark capable of wounding mentally", 
+•	"Synset('cut.n.08') means: a distinct selection of music from a recording or a compact disc", "Synset('deletion.n.03') means: the omission that is made when an editorial change shortens a written passage", 
+•	"Synset('cut.n.10') means: the style in which a garment is cut", 
+•	"Synset('cut.n.11') means: a canal made by erosion or excavation", 
+•	"Synset('snub.n.02') means: a refusal to recognize someone you know", 
+•	"Synset('baseball_swing.n.01') means: in baseball; a batter's attempt to hit a pitched ball", 
+•	"Synset('cut.n.14') means: (sports) a stroke that puts reverse spin on the ball",
+•	 "Synset('cut.n.15') means: the division of a deck of cards before dealing", 
+•	"Synset('cut.n.16') means: the act of penetrating or opening open with a sharp edge", 
+•	"Synset('cut.n.17') means: the act of cutting something into parts", "
+•	Synset('cut.n.18') means: the act of shortening something by chopping off the ends", 
+•	"Synset('cut.n.19') means: the act of reducing the amount or number", 
+•	"Synset('cut.n.20') means: an unexcused absence from class", 
+•	"Synset('cut.v.01') means: separate with or as if with an instrument", 
+•	"Synset('reduce.v.01') means: cut down on; make a reduction in", 
+•	"Synset('swerve.v.01') means: turn sharply; change direction abruptly", 
+•	"Synset('cut.v.04') means: make an incision or separation",
+•	 "Synset('cut.v.05') means: discharge from a group",
+•	 "Synset('cut.v.06') means: form by probing, penetrating, or digging", 
+•	"Synset('cut.v.07') means: style and tailor in a certain fashion",
+•	 "Synset('cut.v.08') means: hit (a ball) with a spin so that it turns in the opposite direction", 
+•	"Synset('write_out.v.02') means: make out and issue", 
+•	"Synset('edit.v.03') means: cut and assemble the components of", 
+•	"Synset('cut.v.11') means: intentionally fail to attend", 
+•	"Synset('hack.v.02') means: be able to manage or manage successfully", "
+•	Synset('cut.v.13') means: give the appearance or impression of", 
+•	"Synset('cut.v.14') means: move (one's fist)", "
+•	Synset('cut.v.15') means: pass directly and often in haste", 
+•	"Synset('cut.v.16') means: pass through or across", "
+•	Synset('cut.v.17') means: make an abrupt change of image or sound",
+•	 "Synset('cut.v.18') means: stop filming", "Synset('cut.v.19') means: make a recording of", 
+•	"Synset('cut.v.20') means: record a performance on (a medium)", 
+•	"Synset('cut.v.21') means: create by duplicating data", 
+•	"Synset('cut.v.22') means: form or shape by cutting or incising", 
+•	"Synset('cut.v.23') means: perform or carry out", 
+•	"Synset('cut.v.24') means: function as a cutting instrument",
+•	 "Synset('cut.v.25') means: allow incision or separation", 
+•	"Synset('cut.v.26') means: divide a deck of cards at random into two parts to make selection difficult", 
+•	"Synset('switch_off.v.01') means: cause to stop operating by disengaging a switch", 
+•	"Synset('cut.v.28') means: reap or harvest", 
+•	"Synset('cut.v.29') means: fell by sawing; hew", 
+•	"Synset('cut.v.30') means: penetrate injuriously", 
+•	"Synset('ignore.v.01') means: refuse to acknowledge", 
+•	"Synset('cut.v.32') means: shorten as if by severing the edges or ends of", 
+•	"Synset('cut.v.33') means: weed out unwanted or unnecessary things", 
+•	"Synset('cut.v.34') means: dissolve by breaking down the fat of", 
+•	"Synset('cut.v.35') means: have a reducing effect", 
+•	"Synset('cut.v.36') means: cease, stop",
+•	 "Synset('abridge.v.01') means: reduce in scope while retaining essential elements", 
+•	"Synset('dilute.v.01') means: lessen the strength or flavor of a solution or mixture", 
+•	"Synset('cut.v.39') means: have grow through the gums", 
+•	"Synset('cut.v.40') means: grow through the gums", 
+•	"Synset('geld.v.01') means: cut off the testicles (of male animals such as horses)", 
+•	"Synset('cut.a.01') means: separated into parts or laid open or penetrated with a sharp edge or instrument", 
+•	"Synset('cut.a.02') means: fashioned or shaped by cutting",
+•	 "Synset('cut.s.03') means: with parts removed"
+•	, "Synset('trimmed.a.01') means: made neat and tidy by trimming", "
+•	Synset('mown.a.01') means: (used of grass or vegetation) cut down with a hand implement or machine", 
+•	"Synset('cut.a.06') means: (of pages of a book) having the folds of the leaves trimmed or slit", 
+•	"Synset('cut.s.07') means: (of a male animal) having the testicles removed", 
+•	"Synset('cut.s.08') means: (used of rates or prices) reduced usually sharply", 
+•	"Synset('cut.s.09') means: mixed with water"]
+
+thirst
+•	["Synset('thirst.n.01') means: a physiological need to drink", 
+•	"Synset('hunger.n.02') means: strong desire for something (not food or drink)",
+•	 "Synset('thirst.v.01') means: feel the need to drink", 
+•	"Synset('crave.v.01') means: have a craving, appetite, or great desire for"]
+
+dry
+•	["Synset('dry.n.01') means: a reformer who opposes the use of intoxicating beverages", 
+•	"Synset('dry.v.01') means: remove the moisture from and make dry",
+•	 "Synset('dry.v.02') means: become dry or drier", 
+•	"Synset('dry.a.01') means: free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet"
+•	, "Synset('dry.s.02') means: humorously sarcastic or mocking", 
+•	"Synset('dry.a.03') means: lacking moisture or volatile components", 
+•	"Synset('dry.a.04') means: opposed to or prohibiting the production and sale of alcoholic beverages", "
+•	Synset('dry.a.05') means: not producing milk", 
+•	"Synset('dry.a.06') means: (of liquor) having a low residual sugar content because of decomposition of sugar during fermentation", 
+•	'Synset(\'dry.a.07\') means: without a mucous or watery discharge; a small child with a dry nose"', 
+•	"Synset('dry.s.08') means: not shedding tears",
+•	 "Synset('dry.s.09') means: lacking interest or stimulation; dull and lifeless", 
+•	"Synset('dry.s.10') means: used of solid substances in contrast with liquid ones", 
+•	"Synset('dry.s.11') means: unproductive especially of the expected results", 
+•	"Synset('dry.s.12') means: having no adornment or coloration", 
+•	"Synset('dry.s.13') means: (of food) eaten without a spread or sauce or other garnish", 
+•	"Synset('dry.s.14') means: having a large proportion of strong liquor", 
+•	"Synset('dry.s.15') means: lacking warmth or emotional involvement", 
+•	'Synset(\'dry.s.16\') means: practicing complete abstinence from alcoholic beverages; I happen to be teetotal"']
+
+disease
+•	["Synset('disease.n.01') means: an impairment of health or a condition of abnormal functioning"]
+
+
+
+
+
+
+
