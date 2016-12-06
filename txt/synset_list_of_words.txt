@@ -148,17 +148,17 @@ burned
 •	"Synset('burned.s.02') means: destroyed or badly damaged by fire", 
 •	"Synset('burned.s.03') means: ruined by overcooking"]
 
-grappled
+14. grappled
 •	["Synset('cope.v.01') means: come to terms with",
 •	 "Synset('grapple.v.02') means: to grip or seize, as in a wrestling match"]
 
-flay
+15. flay
 •	["Synset('flay.v.01') means: strip the skin off"]
 
 enfork
 []
 
-tore
+17. tore
 •	["Synset('torus.n.02') means: commonly the lowest molding at the base of a column", 
 •	"Synset('tear.v.01') means: separate or cause to separate abruptly", 
 •	"Synset('tear.v.02') means: to separate or be separated by force", 
@@ -203,7 +203,8 @@ lead
 •	"Synset('lead.n.02') means: a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey", 
 •	"Synset('lead.n.03') means: evidence pointing to a possible solution", 
 •	"Synset('lead.n.04') means: a position of leadership (especially in the phrase `take the lead')", 
-•	Synset('lead.n.05') means: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)", 
+•	Synset('lead.n.05') means: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the 
+missile)", 
 •	"Synset('lead.n.06') means: the introductory section of a story", 
 •	"Synset('lead.n.07') means: (sports) the score by which a team or individual is winning", 
 •	"Synset('star.n.04') means: an actor who plays a principal role", 
@@ -327,7 +328,7 @@ fires
 •	"Synset('burn.v.01') means: destroy by fire", 
 •	"Synset('fuel.v.02') means: provide with fuel"]
 
-burns
+30. burns
 •	["Synset('burns.n.01') means: United States comedian and film actor (1896-1996)", 
 •	"Synset('burns.n.02') means: celebrated Scottish poet (1759-1796)", 
 •	"Synset('burn.n.01') means: pain that feels hot as if it were on fire", 
@@ -351,12 +352,12 @@ burns
 •	 "Synset('burn_off.v.01') means: use up (energy)", 
 •	"Synset('burn.v.15') means: burn with heat, fire, or radiation"]
 
-cleave
+31. cleave
 •	["Synset('cleave.v.01') means: separate or cut with a tool, such as a sharp instrument", 
 •	"Synset('cleave.v.02') means: make by cutting into",
 •	 "Synset('cling.v.01') means: come or be in close contact with; stick or hold together and resist separation"]
 
-slit
+32. slit
 •	["Synset('slit.n.01') means: a long narrow opening", 
 •	"Synset('cunt.n.02') means: obscene terms for female genitals",
 •	 "Synset('incision.n.01') means: a depression scratched or carved into a surface", 
@@ -495,7 +496,9 @@ disease
 •	["Synset('disease.n.01') means: an impairment of health or a condition of abnormal functioning"]
 
 
-
+Emma: Burns through end
+Meghan: top through grappled
+Jessica: flay through fires
 
 
 
