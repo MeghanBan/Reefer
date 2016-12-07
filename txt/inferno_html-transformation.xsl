@@ -28,14 +28,9 @@
 
     <xsl:template match="canto">
         <h2>
-            <xsl:apply-templates select="@numeral"/>
+            <xsl:value-of select="concat('Canto: ', @numeral)"/>
         </h2>
-        <xsl:text>Canto: </xsl:text>
-        <p>
-            <xsl:apply-templates/>
-        </p>
     </xsl:template>
-
     <xsl:template match="sb">
         <p>
             <xsl:apply-templates/>
