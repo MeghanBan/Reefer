@@ -15,14 +15,18 @@
                     <xsl:apply-templates select="//toc"/>
                 </ul>
                 <hr/>
-                <xsl:apply-templates/>
+                <xsl:apply-templates select="//body"/>
             </body>
         </html>
     </xsl:template>
 
     <xsl:template match="toc">
+        <xsl:apply-templates select="item"/>
+    </xsl:template>
+
+    <xsl:template match="item">
         <li>
-            <xsl:apply-templates select="item"/>
+            <xsl:apply-templates/>
         </li>
     </xsl:template>
 
