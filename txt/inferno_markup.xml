@@ -3872,7 +3872,7 @@
 
 <sb/>
 <lb/>When I had turned mine eyes upon the faces
-<lb/>Of some, <punishment_phrase>on whom the dolorous <torture_word synset-"fire.n.01">fire</torture_word> is falling,</punishment_phrase>
+<lb/>Of some, <punishment_phrase>on whom the dolorous <torture_word synset="fire.n.01">fire</torture_word> is falling,</punishment_phrase>
 <lb/>Not one of them I knew; but I perceived
 
 <sb/>
@@ -6058,7 +6058,7 @@
 <sb/>
 <lb/>And the Leader, who beheld me so attent,
 <lb/>Exclaimed: "<punishment_phrase>Within the <torture_word>fires</torture_word> the spirits are;
-    <lb/>Each swathes himself with that wherewith he <torture_word>burns</torture_word>."</punishment_phrase>
+<lb/>Each swathes himself with that wherewith he <torture_word synset="burn.n.01">burns</torture_word>."</punishment_phrase>
 
 <sb/>
 <lb/>"My Master," I replied, "by hearing thee
@@ -6515,7 +6515,7 @@
 <lb/>While living were, and therefore are cleft thus.
 
 <sb/>
-<lb/><punishment_phrase>A devil is behind here, who doth <torture_word>cleave</torture_word> us</punishment_phrase>
+<lb/><punishment_phrase>A devil is behind here, who doth <torture_word synset="cleave.v.01">cleave</torture_word> us</punishment_phrase>
 <lb/>Thus cruelly, unto the falchion's edge
 <lb/>Putting again each one of all this ream,
 
@@ -6621,7 +6621,7 @@
 
 <sb/>
 <lb/><punishment_phrase>O how <pain_word>bewildered</pain_word> unto me appeared,
-<lb/>With tongue asunder in his windpipe <torture_word>slit</torture_word>,</punishment_phrase>
+<lb/>With tongue asunder in his windpipe <torture_word synset="slit.v.02">slit</torture_word>,</punishment_phrase>
 <lb/>Curio, who in speaking was so bold!
 
 <sb/>
@@ -6655,7 +6655,7 @@
 <lb/>As walked the others of the mournful herd.
 
 <sb/>
-<lb/>And by the hair it held the <punishment_phrase>head <torture_word>dissevered</torture_word>,</punishment_phrase>
+<lb/>And by the hair it held the <punishment_phrase>head <torture_word synset="divide.v.01">dissevered</torture_word>,</punishment_phrase>
 <lb/>Hung from the hand in fashion of a lantern,
 <lb/>And that upon us gazed and said: "O me!"
 
@@ -6779,8 +6779,8 @@
 <lb/>And of Maremma and Sardinia
 
 <sb/>
-<lb/><punishment_phrase>All the <torture_word>diseases</torture_word> in one moat were gathered,
-<lb/>Such was it here, and such a <torture_word>stench</torture_word> came from it</punishment_phrase>
+<lb/><punishment_phrase>All the <torture_word synset="disease.n.01">diseases</torture_word> in one moat were gathered,
+<lb/>Such was it here, and such a <torture_word synset="malodor.n.01">stench</torture_word> came from it</punishment_phrase>
 <lb/>As from putrescent limbs is wont to issue.
 
 <sb/>
@@ -6821,7 +6821,7 @@
 <sb/>
 <lb/>I saw two sitting leaned against each other,
 <lb/>As leans in heating platter against platter,
-<lb/><punishment_phrase>From head to foot bespotted o'er with <torture_word>scabs</torture_word></punishment_phrase>;
+<lb/><punishment_phrase>From head to foot bespotted o'er with <torture_word synset="scab.n.02">scabs</torture_word></punishment_phrase>;
 
 <sb/>
 <lb/>And never saw I plied a currycomb
@@ -6831,7 +6831,7 @@
 <sb/>
 <lb/><punishment_phrase>As every one was plying fast the bite
 <lb/>Of nails upon himself, for the great rage
-<lb/>Of <torture_word>itching</torture_word></punishment_phrase> which no other succour had.
+<lb/>Of <torture_word synset="itch.n.03">itching</torture_word></punishment_phrase> which no other succour had.
 
 <sb/>
 <lb/>And the nails downward with them dragged the scab,
@@ -6980,7 +6980,7 @@
 
 <sb/>
 <lb/>One to Capocchio came, and <punishment_phrase>by the nape
-<lb/>Seized with its <torture_word>teeth</torture_word> his neck, so that in dragging
+<lb/>Seized with its <torture_word synset="tooth.n.04">teeth</torture_word> his neck, so that in dragging
 <lb/>It made his belly grate the solid bottom.</punishment_phrase>
 
 <sb/>
@@ -7015,7 +7015,7 @@
 
 <sb/>
 <lb/>I saw one made in fashion of a lute,
-<lb/>If he had only had the <punishment_phrase>groin <torture_word>cut</torture_word> off</punishment_phrase>
+<lb/>If he had only had the <punishment_phrase>groin <torture_word synset="cut.v.04">cut</torture_word> off</punishment_phrase>
 <lb/>Just at the point at which a man is forked.
 
 <sb/>
@@ -7025,7 +7025,7 @@
 
 <sb/>
 <lb/>Compelled him so to hold his lips apart
-<lb/>As does the hectic, <punishment_phrase>who because of <torture_word>thirst</torture_word></punishment_phrase>
+<lb/>As does the hectic, <punishment_phrase>who because of <torture_word synset="thirst.n.01">thirst</torture_word></punishment_phrase>
 <lb/>One tow'rds the chin, the other upward turns.
 
 <sb/>
@@ -7045,8 +7045,8 @@
 
 <sb/>
 <lb/>Ever before me stand, and not in vain;
-<lb/><punishment_phrase>For far more doth their image <torture_word>dry</torture_word> me up
-<lb/>Than the <torture_word>disease</torture_word> which strips my face of flesh.</punishment_phrase>
+<lb/><punishment_phrase>For far more doth their image <torture_word synset="dry.v.01">dry</torture_word> me up
+<lb/>Than the <torture_word synset="disease.n.01">disease</torture_word> which strips my face of flesh.</punishment_phrase>
 
 <sb/>
 <lb/>The rigid justice that chastises me

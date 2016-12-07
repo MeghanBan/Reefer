@@ -496,7 +496,7 @@ disease
 •	["Synset('disease.n.01') means: an impairment of health or a condition of abnormal functioning"]
 
 
-Emma: Burns through end
+Emma: Burns through end (slit, teeth, dry)
 Meghan: top through grappled
 Jessica: flay through fires
 
