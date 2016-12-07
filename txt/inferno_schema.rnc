@@ -11,28 +11,28 @@ pubPlace = element pubPlace { text }
 url = element url { text }
 toc = element toc { item+ }
 item = element item { text }
-body = element body { mixed {(circle* | canto+ | lb+ | sb+)+ }}
+body = element body { mixed {(circle* | canto+ | lb+ | stanza+)+ }}
 circle =
     element circle {
         number,
         main_sin,
-        mixed { (pouch_ring | punishment_phrase | lb | sb | canto)* }
+        mixed { (pouch_ring | punishment_phrase | lb | stanza | canto)* }
     }
 canto = element canto { numeral }
 lb = element lb { empty }
-sb = element sb { empty }
+stanza = element stanza { mixed {(pouch_ring | punishment_phrase | lb | canto)*}}
 number = attribute number { text }
 main_sin = attribute main_sin { text }
 numeral = attribute numeral { text }
 pouch_ring =
     element pouch_ring {
         number, sub_sin,
-        mixed { (punishment_phrase | lb | sb | canto)* }
+        mixed { (punishment_phrase | lb | stanza | canto)* }
     }
 punishment_phrase =
     element punishment_phrase {
         type?,
-        mixed { (lb | sb | pain_word | torture_word)* }
+        mixed { (lb | stanza | pain_word | torture_word)* }
     }
 sub_sin = attribute sub_sin { text }
 pain_word = element pain_word { synset?, text }
