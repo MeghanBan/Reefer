@@ -15,12 +15,11 @@ h2{
     font-family: timesnewroman;
 }
 p{
-    color: white;
+    color: black;
     text-align: center;
     font-family: timesnewroman;
     font-size: 20px
 }
-
 ul.nav {
     list-style-type: none;
     margin: 0;
@@ -29,7 +28,6 @@ ul.nav {
     background-color: darkred;
     text-align: center;
 }
-
 li.nav {
     display: inline;
 }
