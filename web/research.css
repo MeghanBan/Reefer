@@ -10,17 +10,13 @@ h1{
 
 }
 h2{
-    color: black;
-    text-align: center;
-    font-family: timesnewroman;
-}
-p{
     color: white;
     text-align: center;
     font-family: timesnewroman;
-    font-size: 20px
 }
-
+body{
+    background-color: #DCDCDC;
+}
 ul.nav {
     list-style-type: none;
     margin: 0;
@@ -29,7 +25,6 @@ ul.nav {
     background-color: darkred;
     text-align: center;
 }
-
 li.nav {
     display: inline;
 }
@@ -58,4 +53,9 @@ div.transbox p {
   margin: 10%;
   font-weight: bold;
   color: #000000;
+}
+img{
+    display:block;
+    margin:auto;
+    width:50%
 }
