@@ -35,7 +35,7 @@
             <xsl:value-of select="concat('Canto: ', @numeral)"/>
         </h2>
     </xsl:template>
-    <xsl:template match="sb">
+    <xsl:template match="stanza">
         <p>
             <xsl:apply-templates/>
         </p>
