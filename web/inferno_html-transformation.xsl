@@ -6,7 +6,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Dante's Inferno Reading View</title>
+                <title>Dante's Inferno</title>
             </head>
             <body>
                 <h1>Dante's Inferno</h1>
@@ -35,6 +35,7 @@
             <xsl:value-of select="concat('Canto: ', @numeral)"/>
         </h2>
     </xsl:template>
+    
     <xsl:template match="stanza">
         <p>
             <xsl:apply-templates/>
