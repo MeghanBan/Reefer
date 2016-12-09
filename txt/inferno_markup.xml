@@ -5991,7 +5991,7 @@
 
 <stanza>
 <lb/>"O Rubicante, see that thou do lay
-<lb/>Thy claws upon him, <punishment_phrase>so that thou mayst <torture_word>flay</torture_word> him</punishment_phrase>,"
+    <lb/>Thy claws upon him, <punishment_phrase>so that thou mayst <torture_word synset="flay.v.01">flay</torture_word> him</punishment_phrase>,"
 <lb/>Cried all together the accursed ones.
 </stanza>
 
@@ -6052,7 +6052,7 @@
 <stanza>
 <lb/>And Libicocco: "We have borne too much;"
 <lb/><punishment_phrase>And with his grapnel seized him by the arm,
-<lb/>So that, by rending, he <torture_word>tore</torture_word> off a tendon.</punishment_phrase>
+    <lb/>So that, by rending, he <torture_word synset="tear.v.02">tore</torture_word> off a tendon.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6349,7 +6349,7 @@
 
 <stanza>
 <lb/>Without, they gilded are so that it dazzles;
-<lb/><punishment_phrase>But inwardly all leaden and so <torture_word>heavy</torture_word></punishment_phrase>
+    <lb/><punishment_phrase>But inwardly all leaden and so <torture_word synset="heavy.a.01">heavy</torture_word></punishment_phrase>
 <lb/>That Frederick used to put them on of straw.
 </stanza>
 
@@ -6421,7 +6421,7 @@
 
 <stanza>
 <lb/>And one replied to me: "<punishment_phrase>These orange cloaks
-<lb/>Are made of <torture_word>lead</torture_word> so heavy, that the weights
+    <lb/>Are made of <torture_word synset="lead.n.02">lead</torture_word> so heavy, that the weights
 <lb/>Cause in this way their balances to creak.</punishment_phrase>
 </stanza>
 
@@ -6440,7 +6440,7 @@
 <stanza>
 <lb/>"O Friars," began I, "your iniquitous. . ."
 <lb/>But said no more; for to mine eyes <punishment_phrase>there rushed
-<lb/>One <torture_word>crucified</torture_word> with three stakes on the ground.</punishment_phrase>
+    <lb/>One <torture_word synset="crucify.v.01">crucified</torture_word> with three stakes on the ground.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6456,9 +6456,9 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase><torture_word>Crosswise</torture_word> and <torture_word synset="naked.s.05">naked</torture_word> is he on the path,</punishment_phrase>
+    <lb/><punishment_phrase><torture_word synset="crosswise.s.02">Crosswise</torture_word> and <torture_word synset="naked.s.05">naked</torture_word> is he on the path,</punishment_phrase>
 <lb/>As thou perceivest; and <punishment_phrase>he needs must feel,
-<lb/>Whoever passes, first how much he <torture_word>weighs</torture_word>;</punishment_phrase>
+    <lb/>Whoever passes, first how much he <torture_word synset="weigh.v.01">weighs</torture_word>;</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6689,7 +6689,7 @@
 
 <stanza>
 <lb/><punishment_phrase>And I beheld therein a terrible throng
-<lb/>Of <torture_word>serpents</torture_word>, and of such a monstrous kind,</punishment_phrase>
+    <lb/>Of <torture_word synset="snake.n.01">serpents</torture_word>, and of such a monstrous kind,</punishment_phrase>
 <lb/>That the remembrance still congeals my blood
 </stanza>
 
@@ -6712,14 +6712,14 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>They had their hands with serpents <torture_word>bound</torture_word> behind them;
+    <lb/><punishment_phrase>They had their hands with serpents <torture_word synset="bound.a.01">bound</torture_word> behind them;
 <lb/>These riveted upon their reins the tail
-<lb/>And head, and were in front of them <torture_word>entwined</torture_word>.</punishment_phrase>
+        <lb/>And head, and were in front of them <torture_word synset="intertwine.v.01">entwined</torture_word>.</punishment_phrase>
 </stanza>
 
 <stanza>
 <lb/>And lo! at one who was upon our side
-<lb/><punishment_phrase>There darted forth a serpent, which <torture_word>transfixed</torture_word> him
+    <lb/><punishment_phrase>There darted forth a serpent, which <torture_word synset="transfix.v.02">transfixed</torture_word> him
 <lb/>There where the neck is knotted to the shoulders.</punishment_phrase>
 </stanza>
 
@@ -6936,7 +6936,7 @@
 <stanza>
 <lb/>With middle feet it bound him round the paunch,
 <lb/>And with the forward ones his arms it seized;
-<lb/><punishment_phrase>Then <torture_word>thrust</torture_word> its teeth through one cheek and the other;</punishment_phrase>
+    <lb/><punishment_phrase>Then <torture_word synset="pierce.v.04">thrust</torture_word> its teeth through one cheek and the other;</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6948,7 +6948,7 @@
 <stanza>
 <lb/>Ivy was never fastened by its barbs
 <lb/>Unto a tree so, as this horrible reptile
-<lb/><punishment_phrase>Upon the other's limbs <torture_word>entwined</torture_word> its own.</punishment_phrase>
+    <lb/><punishment_phrase>Upon the other's limbs <torture_word synset="intertwine.v.01">entwined</torture_word> its own.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -7233,7 +7233,7 @@
 
 <stanza>
 <lb/>And the Leader, who beheld me so attent,
-<lb/>Exclaimed: "<punishment_phrase>Within the <torture_word>fires</torture_word> the spirits are;
+    <lb/>Exclaimed: "<punishment_phrase>Within the <torture_word synset="fire.n.01">fires</torture_word> the spirits are;
 <lb/>Each swathes himself with that wherewith he <torture_word synset="burn.n.01">burns</torture_word>."</punishment_phrase>
 </stanza>
 
