@@ -26,12 +26,14 @@
 
     <xsl:template match="item">
         <li>
-            <xsl:apply-templates/>
+            <a href="#canto{@numeral}">
+                <xsl:apply-templates/>
+            </a>
         </li>
     </xsl:template>
 
     <xsl:template match="canto">
-        <h2>
+        <h2 id="canto{@numeral}">
             <xsl:value-of select="concat('Canto: ', @numeral)"/>
         </h2>
     </xsl:template>
@@ -53,4 +55,5 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
 </xsl:stylesheet>
