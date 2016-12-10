@@ -26,7 +26,7 @@
 
     <xsl:template match="item">
         <li>
-            <a href="#canto{@numeral}">
+            <a href="#canto{substring-before(., '.')}">
                 <xsl:apply-templates/>
             </a>
         </li>
