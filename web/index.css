@@ -48,6 +48,10 @@ li.nav a:hover {
 li.nav a.active {
     background-color: #1C2541 !important;
 }
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
 div.transbox {
     margin:30px;
     background-color: #ffffff;
@@ -56,6 +60,17 @@ div.transbox {
 }
 div.transbox p {
   margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+div.title {
+  margin:30px;
+  background-color: #ffffff;
+  border: 1px solid white;
+  opacity: 0.9;
+}
+div.title {
+  margin: 30px;
   font-weight: bold;
   color: #000000;
 }
