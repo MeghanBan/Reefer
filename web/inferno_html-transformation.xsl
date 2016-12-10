@@ -48,12 +48,5 @@
             <xsl:text>&#x0a;</xsl:text>
         </xsl:if>
     </xsl:template>
-    
-    <xsl:template match="punishment_phrase">
-        <xsl:if test="preceding-sibling::lb">
-            <br/>
-            <xsl:text>&#x0a;</xsl:text>
-        </xsl:if>
-    </xsl:template>
 
 </xsl:stylesheet>
