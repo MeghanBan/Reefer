@@ -1,4 +1,4 @@
-<?xml-model href="inferno_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="inferno_schema.rnc" type="application/relax-ng-compact-syntax"?>-->
 <inferno>
     <heading>
         <title>The Divine Comedy</title>
@@ -3304,7 +3304,7 @@
 <stanza>
 <lb/>We with our faithful escort onward moved
 <lb/>Along the brink of the vermilion boiling,
-<lb/>Wherein <punishment_phrase>the <torture_word synset="boil.v.02">boiled</torture_word> were uttering loud <pain_word>laments</pain_word>.</punishment_phrase>
+<lb/>Wherein <punishment_phrase>the <torture_word synset_count="2" synset="boil.v.02">boiled</torture_word> were uttering loud <pain_word>laments</pain_word>.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -3334,7 +3334,7 @@
 <stanza>
 <lb/>A little farther on the Centaur stopped
 <lb/>Above a folk, <punishment_phrase>who far down as the throat
-<lb/>Seemed from that <torture_word synset="boil.v.03">boiled</torture_word> stream to issue forth.</punishment_phrase>
+<lb/>Seemed from that <torture_word synset_count="2" synset="boil.v.03">boiled</torture_word> stream to issue forth.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -3755,7 +3755,7 @@
 
 <stanza>
 <lb/>O'er all the sand-waste, with a gradual fall,
-<lb/>Were <punishment_phrase>raining down dilated flakes of <torture_word synset="fire.n.03">fire</torture_word>,</punishment_phrase>
+<lb/>Were <punishment_phrase>raining down dilated flakes of <torture_word synset_count="2" synset="fire.n.03">fire</torture_word>,</punishment_phrase>
 <lb/>As of the snow on Alp without a wind.
 </stanza>
 
@@ -3773,7 +3773,7 @@
 
 <stanza>
 <lb/>Thus was descending the eternal heat,
-<lb/><punishment_phrase>Whereby the sand was set on <torture_word synset="fire.n.01">fire</torture_word></punishment_phrase>, like tinder
+<lb/><punishment_phrase>Whereby the sand was set on <torture_word synset_count="2" synset="fire.n.01">fire</torture_word></punishment_phrase>, like tinder
 <lb/>Beneath the steel, for doubling of the dole.
 </stanza>
 
@@ -4259,7 +4259,7 @@
 
 <stanza>
 <lb/>Ah me! what <punishment_phrase><pain_word>wounds</pain_word> I saw upon their limbs,</punishment_phrase>
-<lb/>Recent and ancient by the <punishment_phrase><torture_word synset="flame.v.02">flames</torture_word> burnt in!</punishment_phrase>
+<lb/>Recent and ancient by the <punishment_phrase><torture_word synset_count="1" synset="flame.v.02">flames</torture_word> burnt in!</punishment_phrase>
 <lb/>It pains me still but to remember it.
 </stanza>
 
@@ -4619,7 +4619,7 @@
 
 <stanza>
 <lb/>When I had turned mine eyes upon the faces
-<lb/>Of some, <punishment_phrase>on whom the dolorous <torture_word synset="fire.n.01">fire</torture_word> is falling,</punishment_phrase>
+<lb/>Of some, <punishment_phrase>on whom the dolorous <torture_word synset_count="2" synset="fire.n.01">fire</torture_word> is falling,</punishment_phrase>
 <lb/>Not one of them I knew; but I perceived
 </stanza>
 
@@ -4848,7 +4848,7 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>Down at the bottom were the sinners <torture_word synset="bare.s.01">naked</torture_word>;</punishment_phrase>
+<lb/><punishment_phrase>Down at the bottom were the sinners <torture_word synset_count="2" synset="bare.s.01">naked</torture_word>;</punishment_phrase>
 <lb/>This side the middle came they facing us,
 <lb/>Beyond it, with us, but with greater steps;
 </stanza>
@@ -4868,7 +4868,7 @@
 <stanza>
 <lb/>This side and that, along the livid stone
 <lb/>Beheld I <punishment_phrase>horned demons with great scourges,
-<lb/>Who cruelly were <torture_word synset="beating.n.02">beating</torture_word> them behind.</punishment_phrase>
+<lb/>Who cruelly were <torture_word synset_count="1" synset="beating.n.02">beating</torture_word> them behind.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -5027,7 +5027,7 @@
 
 <stanza>
 <lb/>Thither we came, and thence down in the moat
-<lb/>I saw a <punishment_phrase>people <torture_word synset="smothered.s.02">smothered</torture_word> in a filth
+<lb/>I saw a <punishment_phrase>people <torture_word synset_count="1" synset="smothered.s.02">smothered</torture_word> in a filth
 <lb/>That out of human privies seemed to flow;</punishment_phrase>
 </stanza>
 
@@ -5132,7 +5132,7 @@
 </stanza>
 
 <stanza>
-<lb/>In all of them <punishment_phrase>the soles were both on <torture_word synset="fire.n.01">fire</torture_word>;
+<lb/>In all of them <punishment_phrase>the soles were both on <torture_word synset_count="2" synset="fire.n.01">fire</torture_word>;
 <lb/>Wherefore the joints so violently <pain_word>quivered</pain_word>,</punishment_phrase>
 <lb/>They would have snapped asunder withes and bands.
 </stanza>
@@ -5387,12 +5387,12 @@
 
 <stanza>
 <lb/><punishment_phrase>For tow'rds the reins the countenance was turned,
-<lb/>And <torture_word synset="backward.a.01">backward</torture_word> it behoved them to advance,
+<lb/>And <torture_word synset_count="1" synset="backward.a.01">backward</torture_word> it behoved them to advance,
 <lb/>As to look forward had been taken from them.</punishment_phrase>
 </stanza>
 
 <stanza>
-<lb/>Perchance indeed by <punishment_phrase>violence of <torture_word synset="palsy.v.01">palsy</torture_word></punishment_phrase>
+<lb/>Perchance indeed by <punishment_phrase>violence of <torture_word synset_count="1" synset="palsy.v.01">palsy</torture_word></punishment_phrase>
 <lb/>Some one has been thus wholly turned awry;
 <lb/>But I ne'er saw it, nor believe it can be.
 </stanza>
@@ -5704,7 +5704,7 @@
 <stanza>
 <lb/>From off our bridge, he said: "O Malebranche,
 <lb/>Behold one of the elders of Saint Zita;
-<lb/><punishment_phrase><torture_word synset="plunge.v.05">Plunge</torture_word> him beneath</punishment_phrase>, for I return for others
+<lb/><punishment_phrase><torture_word synset_count="1" synset="plunge.v.05">Plunge</torture_word> him beneath</punishment_phrase>, for I return for others
 </stanza>
 
 <stanza>
@@ -5714,7 +5714,7 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>He <torture_word synset="hurl.v.01">hurled</torture_word> him down, and over the hard crag
+<lb/><punishment_phrase>He <torture_word synset_count="1" synset="hurl.v.01">hurled</torture_word> him down, and over the hard crag
 <lb/>Turned round, and never was a mastiff loosened
 <lb/>In so much hurry to pursue a thief.</punishment_phrase>
 </stanza>
@@ -5732,7 +5732,7 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>They seized him then with more than a hundred <torture_word synset="rake.n.03">rakes</torture_word>;</punishment_phrase>
+<lb/><punishment_phrase>They seized him then with more than a hundred <torture_word synset_count="1" synset="rake.n.03">rakes</torture_word>;</punishment_phrase>
 <lb/>They said: "It here behoves thee to dance covered,
 <lb/>That, if thou canst, thou secretly mayest pilfer."
 </stanza>
@@ -5944,7 +5944,7 @@
 <stanza>
 <lb/>Ever upon the pitch was my intent,
 <lb/>To see the whole condition of that Bolgia,
-<lb/><punishment_phrase>And of the people who therein were <torture_word synset="burn.v.01">burned</torture_word>.</punishment_phrase>
+<lb/><punishment_phrase>And of the people who therein were <torture_word synset_count="2" synset="burn.v.01">burned</torture_word>.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -5979,7 +5979,7 @@
 
 <stanza>
 <lb/>And Graffiacan, who most confronted him,
-<lb/><punishment_phrase><torture_word synset="grapple.v.02">Grappled</torture_word> him by his tresses smeared with pitch,
+<lb/><punishment_phrase><torture_word synset_count="1" synset="grapple.v.02">Grappled</torture_word> him by his tresses smeared with pitch,
 <lb/>And drew him up, so that he seemed an otter.</punishment_phrase>
 </stanza>
 
@@ -5991,7 +5991,7 @@
 
 <stanza>
 <lb/>"O Rubicante, see that thou do lay
-    <lb/>Thy claws upon him, <punishment_phrase>so that thou mayst <torture_word synset="flay.v.01">flay</torture_word> him</punishment_phrase>,"
+    <lb/>Thy claws upon him, <punishment_phrase>so that thou mayst <torture_word synset_count="1" synset="flay.v.01">flay</torture_word> him</punishment_phrase>,"
 <lb/>Cried all together the accursed ones.
 </stanza>
 
@@ -6028,7 +6028,7 @@
 <stanza>
 <lb/>Among malicious cats the mouse had come;
 <lb/>But Barbariccia clasped him in his arms,
-<lb/>And said: "Stand ye aside, <punishment_phrase>while I <torture_word>enfork</torture_word> him</punishment_phrase>."
+<lb/>And said: "Stand ye aside, <punishment_phrase>while I <torture_word synset_count="0" synset="">enfork</torture_word> him</punishment_phrase>."
 </stanza>
 
 <stanza>
@@ -6052,7 +6052,7 @@
 <stanza>
 <lb/>And Libicocco: "We have borne too much;"
 <lb/><punishment_phrase>And with his grapnel seized him by the arm,
-    <lb/>So that, by rending, he <torture_word synset="tear.v.02">tore</torture_word> off a tendon.</punishment_phrase>
+    <lb/>So that, by rending, he <torture_word synset_count="1" synset="tear.v.02">tore</torture_word> off a tendon.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6349,7 +6349,7 @@
 
 <stanza>
 <lb/>Without, they gilded are so that it dazzles;
-    <lb/><punishment_phrase>But inwardly all leaden and so <torture_word synset="heavy.a.01">heavy</torture_word></punishment_phrase>
+    <lb/><punishment_phrase>But inwardly all leaden and so <torture_word synset_count="1" synset="heavy.a.01">heavy</torture_word></punishment_phrase>
 <lb/>That Frederick used to put them on of straw.
 </stanza>
 
@@ -6421,7 +6421,7 @@
 
 <stanza>
 <lb/>And one replied to me: "<punishment_phrase>These orange cloaks
-    <lb/>Are made of <torture_word synset="lead.n.02">lead</torture_word> so heavy, that the weights
+    <lb/>Are made of <torture_word synset_count="1" synset="lead.n.02">lead</torture_word> so heavy, that the weights
 <lb/>Cause in this way their balances to creak.</punishment_phrase>
 </stanza>
 
@@ -6440,7 +6440,7 @@
 <stanza>
 <lb/>"O Friars," began I, "your iniquitous. . ."
 <lb/>But said no more; for to mine eyes <punishment_phrase>there rushed
-    <lb/>One <torture_word synset="crucify.v.01">crucified</torture_word> with three stakes on the ground.</punishment_phrase>
+    <lb/>One <torture_word synset_count="1" synset="crucify.v.01">crucified</torture_word> with three stakes on the ground.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6456,9 +6456,9 @@
 </stanza>
 
 <stanza>
-    <lb/><punishment_phrase><torture_word synset="crosswise.s.02">Crosswise</torture_word> and <torture_word synset="naked.s.05">naked</torture_word> is he on the path,</punishment_phrase>
+    <lb/><punishment_phrase><torture_word synset_count="1" synset="crosswise.s.02">Crosswise</torture_word> and <torture_word synset_count="2" synset="naked.s.05">naked</torture_word> is he on the path,</punishment_phrase>
 <lb/>As thou perceivest; and <punishment_phrase>he needs must feel,
-    <lb/>Whoever passes, first how much he <torture_word synset="weigh.v.01">weighs</torture_word>;</punishment_phrase>
+    <lb/>Whoever passes, first how much he <torture_word synset_count="1" synset="weigh.v.01">weighs</torture_word>;</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6689,7 +6689,7 @@
 
 <stanza>
 <lb/><punishment_phrase>And I beheld therein a terrible throng
-    <lb/>Of <torture_word synset="snake.n.01">serpents</torture_word>, and of such a monstrous kind,</punishment_phrase>
+    <lb/>Of <torture_word synset_count="1" synset="snake.n.01">serpents</torture_word>, and of such a monstrous kind,</punishment_phrase>
 <lb/>That the remembrance still congeals my blood
 </stanza>
 
@@ -6712,20 +6712,20 @@
 </stanza>
 
 <stanza>
-    <lb/><punishment_phrase>They had their hands with serpents <torture_word synset="bound.a.01">bound</torture_word> behind them;
+    <lb/><punishment_phrase>They had their hands with serpents <torture_word synset_count="1" synset="bound.a.01">bound</torture_word> behind them;
 <lb/>These riveted upon their reins the tail
-        <lb/>And head, and were in front of them <torture_word synset="intertwine.v.01">entwined</torture_word>.</punishment_phrase>
+        <lb/>And head, and were in front of them <torture_word synset_count="1" synset="intertwine.v.01">entwined</torture_word>.</punishment_phrase>
 </stanza>
 
 <stanza>
 <lb/>And lo! at one who was upon our side
-    <lb/><punishment_phrase>There darted forth a serpent, which <torture_word synset="transfix.v.02">transfixed</torture_word> him
+    <lb/><punishment_phrase>There darted forth a serpent, which <torture_word synset_count="1" synset="transfix.v.02">transfixed</torture_word> him
 <lb/>There where the neck is knotted to the shoulders.</punishment_phrase>
 </stanza>
 
 <stanza>
 <lb/><punishment_phrase>Nor 'O' so quickly e'er, nor 'I' was written,
-<lb/>As he took fire, and <torture_word synset="burn.v.01">burned</torture_word>; and ashes wholly</punishment_phrase>
+<lb/>As he took fire, and <torture_word synset_count="2" synset="burn.v.01">burned</torture_word>; and ashes wholly</punishment_phrase>
 <lb/>Behoved it that in falling he became.
 </stanza>
 
@@ -6876,7 +6876,7 @@
 <stanza>
 <lb/><punishment_phrase>Upon the shoulders, just behind the nape,
 <lb/>With wings wide open was a dragon lying,
-<lb/>And he sets <torture_word synset="fire.n.03">fire</torture_word> to all that he encounters.</punishment_phrase>
+<lb/>And he sets <torture_word synset_count="2" synset="fire.n.03">fire</torture_word> to all that he encounters.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6936,7 +6936,7 @@
 <stanza>
 <lb/>With middle feet it bound him round the paunch,
 <lb/>And with the forward ones his arms it seized;
-    <lb/><punishment_phrase>Then <torture_word synset="pierce.v.04">thrust</torture_word> its teeth through one cheek and the other;</punishment_phrase>
+    <lb/><punishment_phrase>Then <torture_word synset_count="1" synset="pierce.v.04">thrust</torture_word> its teeth through one cheek and the other;</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -6948,7 +6948,7 @@
 <stanza>
 <lb/>Ivy was never fastened by its barbs
 <lb/>Unto a tree so, as this horrible reptile
-    <lb/><punishment_phrase>Upon the other's limbs <torture_word synset="intertwine.v.01">entwined</torture_word> its own.</punishment_phrase>
+    <lb/><punishment_phrase>Upon the other's limbs <torture_word synset_count="1" synset="intertwine.v.01">entwined</torture_word> its own.</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -7233,8 +7233,8 @@
 
 <stanza>
 <lb/>And the Leader, who beheld me so attent,
-    <lb/>Exclaimed: "<punishment_phrase>Within the <torture_word synset="fire.n.01">fires</torture_word> the spirits are;
-<lb/>Each swathes himself with that wherewith he <torture_word synset="burn.n.01">burns</torture_word>."</punishment_phrase>
+    <lb/>Exclaimed: "<punishment_phrase>Within the <torture_word synset_count="2" synset="fire.n.01">fires</torture_word> the spirits are;
+<lb/>Each swathes himself with that wherewith he <torture_word synset_count="2" synset="burn.n.01">burns</torture_word>."</punishment_phrase>
 </stanza>
 
 <stanza>
@@ -7782,7 +7782,7 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>A devil is behind here, who doth <torture_word synset="cleave.v.01">cleave</torture_word> us</punishment_phrase>
+<lb/><punishment_phrase>A devil is behind here, who doth <torture_word synset_count="1" synset="cleave.v.01">cleave</torture_word> us</punishment_phrase>
 <lb/>Thus cruelly, unto the falchion's edge
 <lb/>Putting again each one of all this ream,
 </stanza>
@@ -7909,7 +7909,7 @@
 
 <stanza>
 <lb/><punishment_phrase>O how <pain_word>bewildered</pain_word> unto me appeared,
-<lb/>With tongue asunder in his windpipe <torture_word synset="slit.v.02">slit</torture_word>,</punishment_phrase>
+<lb/>With tongue asunder in his windpipe <torture_word synset_count="1" synset="slit.v.02">slit</torture_word>,</punishment_phrase>
 <lb/>Curio, who in speaking was so bold!
 </stanza>
 
@@ -7950,7 +7950,7 @@
 </stanza>
 
 <stanza>
-<lb/>And by the hair it held the <punishment_phrase>head <torture_word synset="divide.v.01">dissevered</torture_word>,</punishment_phrase>
+<lb/>And by the hair it held the <punishment_phrase>head <torture_word synset_count="1" synset="divide.v.01">dissevered</torture_word>,</punishment_phrase>
 <lb/>Hung from the hand in fashion of a lantern,
 <lb/>And that upon us gazed and said: "O me!"
 </stanza>
@@ -8098,8 +8098,8 @@
 </stanza>
 
 <stanza>
-<lb/><punishment_phrase>All the <torture_word synset="disease.n.01">diseases</torture_word> in one moat were gathered,
-<lb/>Such was it here, and such a <torture_word synset="malodor.n.01">stench</torture_word> came from it</punishment_phrase>
+<lb/><punishment_phrase>All the <torture_word synset_count="1" synset="disease.n.01">diseases</torture_word> in one moat were gathered,
+<lb/>Such was it here, and such a <torture_word synset_count="1" synset="malodor.n.01">stench</torture_word> came from it</punishment_phrase>
 <lb/>As from putrescent limbs is wont to issue.
 </stanza>
 
@@ -8148,7 +8148,7 @@
 <stanza>
 <lb/>I saw two sitting leaned against each other,
 <lb/>As leans in heating platter against platter,
-<lb/><punishment_phrase>From head to foot bespotted o'er with <torture_word synset="scab.n.02">scabs</torture_word></punishment_phrase>;
+<lb/><punishment_phrase>From head to foot bespotted o'er with <torture_word synset_count="1" synset="scab.n.02">scabs</torture_word></punishment_phrase>;
 </stanza>
 
 <stanza>
@@ -8160,7 +8160,7 @@
 <stanza>
 <lb/><punishment_phrase>As every one was plying fast the bite
 <lb/>Of nails upon himself, for the great rage
-<lb/>Of <torture_word synset="itch.n.03">itching</torture_word></punishment_phrase> which no other succour had.
+<lb/>Of <torture_word synset_count="1" synset="itch.n.03">itching</torture_word></punishment_phrase> which no other succour had.
 </stanza>
 
 <stanza>
@@ -8339,7 +8339,7 @@
 
 <stanza>
 <lb/>One to Capocchio came, and <punishment_phrase>by the nape
-<lb/>Seized with its <torture_word synset="tooth.n.04">teeth</torture_word> his neck, so that in dragging
+<lb/>Seized with its <torture_word synset_count="1" synset="tooth.n.04">teeth</torture_word> his neck, so that in dragging
 <lb/>It made his belly grate the solid bottom.</punishment_phrase>
 </stanza>
 
@@ -8381,7 +8381,7 @@
 
 <stanza>
 <lb/>I saw one made in fashion of a lute,
-<lb/>If he had only had the <punishment_phrase>groin <torture_word synset="cut.v.04">cut</torture_word> off</punishment_phrase>
+<lb/>If he had only had the <punishment_phrase>groin <torture_word synset_count="1" synset="cut.v.04">cut</torture_word> off</punishment_phrase>
 <lb/>Just at the point at which a man is forked.
 </stanza>
 
@@ -8393,7 +8393,7 @@
 
 <stanza>
 <lb/>Compelled him so to hold his lips apart
-<lb/>As does the hectic, <punishment_phrase>who because of <torture_word synset="thirst.n.01">thirst</torture_word></punishment_phrase>
+<lb/>As does the hectic, <punishment_phrase>who because of <torture_word synset_count="1" synset="thirst.n.01">thirst</torture_word></punishment_phrase>
 <lb/>One tow'rds the chin, the other upward turns.
 </stanza>
 
@@ -8417,8 +8417,8 @@
 
 <stanza>
 <lb/>Ever before me stand, and not in vain;
-<lb/><punishment_phrase>For far more doth their image <torture_word synset="dry.v.01">dry</torture_word> me up
-<lb/>Than the <torture_word synset="disease.n.01">disease</torture_word> which strips my face of flesh.</punishment_phrase>
+<lb/><punishment_phrase>For far more doth their image <torture_word synset_count="1" synset="dry.v.01">dry</torture_word> me up
+<lb/>Than the <torture_word synset_count="1" synset="disease.n.01">disease</torture_word> which strips my face of flesh.</punishment_phrase>
 </stanza>
 
 <stanza>
