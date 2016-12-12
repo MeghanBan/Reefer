@@ -1,0 +1,7 @@
+About the project:
+
+This project was for our Computational Methods in the Humanities class at the University of Pittsburgh. The goal of this course project was to utilize the technologies that we learned throughout the semester and produce a project similar to those in the Digital Humanities discipline. 
+
+Our group decided to examine Dante Alighieri's poem Dante's Inferno. Originally written in Italian, we used Henry Wadsworth Longfellow's translation of the text, available through Project Gutenberg. 
+
+The poem follows Dante as he travels through all nine levels of Hell, and learns about the sin and punishment associated with each level. As such, we anticipated that there would be high levels of very painful and torturous language as Dante witness and heard about sinners' experiences in Hell. 
