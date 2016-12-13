@@ -1,0 +1,19 @@
+<h1>Markup Methodology</h1>
+
+<h2>Structural Markup:</h2>
+
+One of the most time consuming parts of this project was the initial structural mark-up of the text and schema development. The problem stemmed from discrepancies in the structure of the poem itself and the mark-up we wanted to put.
+
+The visual layout of the poem by Dante Alighieri is broken into lines, stanzas, and cantos. In the poem, however, the character Dante is travelling through the levels, or circles, of Hell, some of which have their own pouches or rings. These circles, pouches and rings, however, do not line up with the cantos. Circles span cantos and they are unpredictable in where they begin and terminate. Because of this, creating <canto> and <circle> elements would have violated the XML hierarchy and resulted in an invalid XML document. Another problem we ran into was that of marking up pain and torture. In this case, pain and torture spanned lines, and if we created <line> elements it would have resulted in the same issue as above.
+
+What we decided to do instead was create empty elements, or milestone tags. Instead of having <line> tags wrapping the lines, we have <lb/> tags at the beginning of each line signifying "line beginning" and <canto/> marking the beginning of each canto. That way circles could span cantos and pain and torture could span lines, and there would be no violation of the hierarchy. 
+
+<h2>Content Markup:</h2>
+
+At first we wanted 
+
+
+<h1>Limitations</h1>
+
+<h1>Conclusions</h1>
+
