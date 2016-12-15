@@ -54,8 +54,8 @@ li.nav a.active {
 div.transbox {
     margin:30px;
     background-color: #ffffff;
-  border: 1px solid white;
-  opacity: 0.9;
+    border: 1px solid white;
+    opacity: 0.9;
 }
 div.transbox p {
   margin: 10%;

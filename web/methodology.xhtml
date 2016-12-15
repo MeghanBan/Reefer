@@ -9,44 +9,118 @@
         <div class="w3-content" style="max-width:1500px"></div>
         <!--#include virtual="include/foundation.html" -->
         <div class="title">
-            <h2 class="w4-xlarge">METHODOLOGY</h2>
+            <h2 class="w4-xlarge">Methodology</h2>
         </div>
         <header class="w3-panel w3-padding-128 w3-center w3-opacity"></header>
         <div class="transbox">
             <h1>Markup Methodology</h1>
-                
-                <h2>Structural Mark-up</h2>
-                
-                <p>One of the most time consuming parts of this project was the initial structural mark-up of the text and schema development. The problem stemmed from discrepancies in the structure of the poem itself and the mark-up we wanted to put.
-                
-                The layout of the poem by Dante Alighieri is broken into lines, stanzas, and cantos. In the poem, however, the character Dante is travelling through the circles of Hell, some of which have their own pouches or rings. These circles, pouches and rings, however, do not line up with the cantos. Circles span cantos and they are unpredictable in where they begin and terminate. Because of this, creating &lt;canto&gt; and &lt;circle&gt; elements would have violated the XML hierarchy and resulted in an invalid XML document. Another problem we ran into was that of marking up pain and torture. In this case, pain and torture spanned lines, and if we created &lt;line&gt; elements it would have resulted in the same issue as above.
-                    
-                What we decided to do instead was create empty elements, or milestone tags. Instead of having &lt;line&gt; tags wrapping the lines, we have &lt;lb/&gt; tags at the beginning of each line signifying &lt;line beginning&gt; and &lt;canto/&gt; tags marking the beginning of each canto. That way circles could span cantos and pain and torture could span lines, and there would be no violation of the hierarchy. </p>
-                        
-                <h2>Content Mark-up</h2>
-                        
-                <p>As our goal of the project was to examine the language surrounding pain and torture in Hell, we, obviously, needed to mark up instances of pain and torture. We distinguished between pain and torture by classifying &lt;pain&gt; as experienced by the sinner, and &lt;torture&gt; as the act inflicting pain on the sinner. As mentioned above, we initially had the problem of figuring out how to tag pain and torture that spanned lines without violating the integrity of the XML hierarchy, which we solved by creating empty &lt;lb/&gt; tags to mark line beginnings. In our first, rough mark-up, we tagged instances of pain and torture in &lt;pain_phrase&gt; and &lt;torture_phrase&gt; elements respectively. We tagged phrases rather than words because much of the time, pain and torture were not expressed in only one word, but rather in long, poetic phrases. With our inclusion of WordNet, however, not having individually tagged words posed yet another problem.
-                            
-                WordNet is a large lexical database of English that groups words into cognitive synonyms, or synsets, based on their part-of-speech. Each synset expresses a different meaning of the word. WordNet acts, in the simplest of explanations, as a sort of thesaurus. An important distinction between WordNet and a thesaurus, however, is that WordNet groups not just definitions, but also senses of words. WordNet also labels semantic relations between words, where a thesaurus does not.
-                            
-                WordNet processes words, not phrases, and it was there that the problem with &lt;pain_phrase&gt; and &lt;torture_phrase&gt; tags lay. Another problem with those tags were that there was instances of punishment that were not necessarily instances of pain or torture, exactly. We still wanted to capture the instances of that language though, because they were also important data points. What we did to fix both problems was, using Regular Expressions, change all &lt;pain_phrase&gt; and &lt;torture_phrase&gt; elements into &lt;punishment_phrase&gt; elements. &lt;punishment_phrase&gt; elements, then, had optional child &lt;pain_word&gt; and &lt;torture_word&gt; elements. That way, we were able to capture the full phrase of punishment while still tagging individual words so that WordNet could process them.</p>
-                                
-                <h2>Limitations</h2>
-                                
-                <p>Our main limitation was time. As this project was confined to the course of one semester, we were very limited in what we were able to do. This project was very involved, and combined with all of our course loads, it proved impossible to complete it in full. Thus, this project is a proof of concept. We did enough mark-up to be able to capture data to analyze, and we did enough analysis that we were able to draw preliminary conclusions. We did not mark up the entire text. The whole text has structural mark-up (line beginnings, stanzas, cantos, circles, and pouches/rings), however the content mark-up is not complete. We started the mark-up of pain and torture in the middle of the poem, as the beginning of the poem is mainly talking and description, and the particularly painful and torturous parts do not really begin until Dante gets deeper into Hell. Content mark-up begins at canto IX and goes through canto XXX. We also ran WordNet analysis on only &lt;torture_word&gt; elements, and not &lt;pain_word&gt; elements.
-                                    
-                Another limitation was WordNet. This project needed to be linguistics-based for our two Linguistics majors in the group, and WordNet was able to provide heavily semantics-based interpretation. We decided to use this technology at the beginning of the semester before we fully understood our project and our goals, and it became clear that WordNet was not the ideal technology for us. However we were in too deep (into the semester and our project) to make any more drastic changes, so we pursued the use of WordNet. Using WordNet required learning Python, which none of us had very much experience with, and reading through each synset of each word, choosing one, and manually marking it up in the text. A lot of our time ended up going towards WordNet. Had we not been dealing with that technology, we could have gotten further on other analysis. </p>
-                                    
-                <h2>Ideas for Future Research</h2>
-                                    
-                <p>If we were to continue this project, we would complete the mark-up of pain and torture. We might think about not continuing with WordNet, and instead utilizing MALLET for topic modeling. Unlike WordNet, MALLET could provide us with groups of words that occur frequently near each other, ideally showing us the different theme or topic, rather, that each circle focused on. As our original research question looked at comparing the language surrounding punishment in each of the nine circles of Hell, topic modeling could provide us with an ideal overview of the words used in each circle. 
-                                    
-                We would also make sure that the content mark-up was much more thorough and consistent. The mark-up was done primarily by two members of our group. Because deciding what is painful or torturous language is subjective in itself, having two different people do it created even more subjectivity and discrepancies. Given the time, we would go through the text a few more times and make sure to standardize further the words we chose as pain words and torture words, and the phrases we tagged as &lt;punishment_phrase&gt;. 
-                                        
-                The fact that this text was translated from the original Italian creates even more confounding variables. No one in our group knows Italian, so we were unable to do analysis of the original text. However given the time and the resources, doing a similar project with the Italian text would be interesting and also beneficial when comparing it to the English text.</p>
+
+            <h2>Structural Mark-up</h2>
+
+            <p>One of the most time consuming parts of this project was the initial structural
+                mark-up of the text and schema development. The problem stemmed from discrepancies
+                in the structure of the poem itself and the mark-up we wanted to put. The layout of
+                the poem by Dante Alighieri is broken into lines, stanzas, and cantos. In the poem,
+                however, the character Dante is travelling through the circles of Hell, some of
+                which have their own pouches or rings. These circles, pouches and rings, however, do
+                not line up with the cantos. Circles span cantos and they are unpredictable in where
+                they begin and terminate. Because of this, creating &lt;canto&gt; and &lt;circle&gt;
+                elements would have violated the XML hierarchy and resulted in an invalid XML
+                document. Another problem we ran into was that of marking up pain and torture. In
+                this case, pain and torture spanned lines, and if we created &lt;line&gt; elements
+                it would have resulted in the same issue as above. What we decided to do instead was
+                create empty elements, or milestone tags. Instead of having &lt;line&gt; tags
+                wrapping the lines, we have &lt;lb/&gt; tags at the beginning of each line
+                signifying &lt;line beginning&gt; and &lt;canto/&gt; tags marking the beginning of
+                each canto. That way circles could span cantos and pain and torture could span
+                lines, and there would be no violation of the hierarchy. </p>
+
+            <h2>Content Mark-up</h2>
+
+            <p>As our goal of the project was to examine the language surrounding pain and torture
+                in Hell, we, obviously, needed to mark up instances of pain and torture. We
+                distinguished between pain and torture by classifying &lt;pain&gt; as experienced by
+                the sinner, and &lt;torture&gt; as the act inflicting pain on the sinner. As
+                mentioned above, we initially had the problem of figuring out how to tag pain and
+                torture that spanned lines without violating the integrity of the XML hierarchy,
+                which we solved by creating empty &lt;lb/&gt; tags to mark line beginnings. In our
+                first, rough mark-up, we tagged instances of pain and torture in &lt;pain_phrase&gt;
+                and &lt;torture_phrase&gt; elements respectively. We tagged phrases rather than
+                words because much of the time, pain and torture were not expressed in only one
+                word, but rather in long, poetic phrases. With our inclusion of WordNet, however,
+                not having individually tagged words posed yet another problem. WordNet is a large
+                lexical database of English that groups words into cognitive synonyms, or synsets,
+                based on their part-of-speech. Each synset expresses a different meaning of the
+                word. WordNet acts, in the simplest of explanations, as a sort of thesaurus. An
+                important distinction between WordNet and a thesaurus, however, is that WordNet
+                groups not just definitions, but also senses of words. WordNet also labels semantic
+                relations between words, where a thesaurus does not. WordNet processes words, not
+                phrases, and it was there that the problem with &lt;pain_phrase&gt; and
+                &lt;torture_phrase&gt; tags lay. Another problem with those tags were that there was
+                instances of punishment that were not necessarily instances of pain or torture,
+                exactly. We still wanted to capture the instances of that language though, because
+                they were also important data points. What we did to fix both problems was, using
+                Regular Expressions, change all &lt;pain_phrase&gt; and &lt;torture_phrase&gt;
+                elements into &lt;punishment_phrase&gt; elements. &lt;punishment_phrase&gt;
+                elements, then, had optional child &lt;pain_word&gt; and &lt;torture_word&gt;
+                elements. That way, we were able to capture the full phrase of punishment while
+                still tagging individual words so that WordNet could process them.</p>
+
+            <h2>Limitations</h2>
+
+            <p>Our main limitation was time. As this project was confined to the course of one
+                semester, we were very limited in what we were able to do. This project was very
+                involved, and combined with all of our course loads, it proved impossible to
+                complete it in full. Thus, this project is a proof of concept. We did enough mark-up
+                to be able to capture data to analyze, and we did enough analysis that we were able
+                to draw preliminary conclusions. We did not mark up the entire text. The whole text
+                has structural mark-up (line beginnings, stanzas, cantos, circles, and
+                pouches/rings), however the content mark-up is not complete. We started the mark-up
+                of pain and torture in the middle of the poem, as the beginning of the poem is
+                mainly talking and description, and the particularly painful and torturous parts do
+                not really begin until Dante gets deeper into Hell. Content mark-up begins at canto
+                IX and goes through canto XXX. We also ran WordNet analysis on only
+                &lt;torture_word&gt; elements, and not &lt;pain_word&gt; elements. Another
+                limitation was WordNet. This project needed to be linguistics-based for our two
+                Linguistics majors in the group, and WordNet was able to provide heavily
+                semantics-based interpretation. We decided to use this technology at the beginning
+                of the semester before we fully understood our project and our goals, and it became
+                clear that WordNet was not the ideal technology for us. However we were in too deep
+                (into the semester and our project) to make any more drastic changes, so we pursued
+                the use of WordNet. Using WordNet required learning Python, which none of us had
+                very much experience with, and reading through each synset of each word, choosing
+                one, and manually marking it up in the text. A lot of our time ended up going
+                towards WordNet. Had we not been dealing with that technology, we could have gotten
+                further on other analysis. </p>
+
+            <h2>Ideas for Future Research</h2>
+
+            <p>If we were to continue this project, we would complete the mark-up of pain and
+                torture. We might think about not continuing with WordNet, and instead utilizing
+                MALLET for topic modeling. Unlike WordNet, MALLET could provide us with groups of
+                words that occur frequently near each other, ideally showing us the different theme
+                or topic, rather, that each circle focused on. As our original research question
+                looked at comparing the language surrounding punishment in each of the nine circles
+                of Hell, topic modeling could provide us with an ideal overview of the words used in
+                each circle. We would also make sure that the content mark-up was much more thorough
+                and consistent. The mark-up was done primarily by two members of our group. Because
+                deciding what is painful or torturous language is subjective in itself, having two
+                different people do it created even more subjectivity and discrepancies. Given the
+                time, we would go through the text a few more times and make sure to standardize
+                further the words we chose as pain words and torture words, and the phrases we
+                tagged as &lt;punishment_phrase&gt;. The fact that this text was translated from the
+                original Italian creates even more confounding variables. No one in our group knows
+                Italian, so we were unable to do analysis of the original text. However given the
+                time and the resources, doing a similar project with the Italian text would be
+                interesting and also beneficial when comparing it to the English text.</p>
         </div>
         <div class="creativelicense">
-            <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.</p>
+            <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png"
+                 /></a><br />This work is licensed under a <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons
+                    Attribution-NonCommercial 3.0 United States License</a>.</p>
         </div>
     </body>
 </html>
