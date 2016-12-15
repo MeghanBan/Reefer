@@ -9,14 +9,43 @@
         <div class="w3-content" style="max-width:1500px"></div>
         <!--#include virtual="include/foundation.html" -->
         <div class="title">
-            <h2 class="w4-xlarge">ANALYSIS</h2>
+            <h2 class="w4-xlarge">Analysis</h2>
         </div>
         <header class="w3-panel w3-padding-128 w3-center w3-opacity"></header>
         <div class="transbox">
-            <p>Blank for now.</p>
+            <p>Our initial hypothesis was that the language surrounding pain and torture would
+                progressively get grimmer as Dante moves through each circle of hell. Our graph
+                translates our initial hypothesis and displays the trend where the amount of torture
+                words used increases as the circles of hell get more tortuous. However, given the
+                lack of complete and conclusive data, this graph is a proof of concept and no formal
+                conclusions can be drawn from it. </p>
+            
+            <img src="percent_of_torture_word.svg" alt="percent_of_torture_word_graph" style="width:40%;height:auto;"></img><br/>
+            
+            <p>The graph above displays the number of torture words divided by the total number of words
+                in each circle, reflecting the percent/ratio of torture words in the particular
+                circle. However, some circles do not have any torture words and some circles have
+                incomplete data. The Y axis represents the amount of torture words as a percent of
+                the total words in the circle and the X axis represents the circles of hell. </p>
+            <p>We further explored the use of torture words by implementing Wordnet, a large lexical
+                database of English. Parts of speech (nouns, verbs, adjectives etc.) are grouped in
+                synonyms, called synsets. We used these synsets to explore the richness of the
+                expression of torture in the text. As we already had the torture words marked up, we
+                used wordnet with the help of some python to find the appropriate synset for each
+                torture word. We tagged the torture word elements with their individual synsets and
+                number of distinct synsets. Then we performed an XSLT transformation to gain the
+                “tortuous ratio.” By dividing the count of distinct synsets in the text by the count
+                of torture words, we acquired the ratio - .854. A higher ratio, closer to 1,
+                indicating a diverse and larger variety in vocabulary.</p>
+
         </div>
         <div class="creativelicense">
-            <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.</p>
+            <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img
+                        alt="Creative Commons License" style="border-width:0"
+                        src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png"
+                 /></a><br />This work is licensed under a <a rel="license"
+                    href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons
+                    Attribution-NonCommercial 3.0 United States License</a>.</p>
         </div>
     </body>
 </html>
