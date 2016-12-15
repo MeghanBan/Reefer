@@ -14,9 +14,16 @@ h2{
     text-align: center;
     font-family: timesnewroman;
 }
+h3{
+    color: black;
+    text-align: left;
+    font-family: timesnewroman;
+    font-size:22px;
+    margin:18px;
+}
 p{
     color: white;
-    text-align: center;
+    text-align: left;
     font-family: timesnewroman;
     font-size: 20px
 }
@@ -52,14 +59,13 @@ li.nav a.active {
     color: white;
 }
 div.transbox {
-    margin:30px;
+    margin:5px;
     background-color: #ffffff;
     border: 1px solid white;
     opacity: 0.9;
 }
 div.transbox p {
-  margin: 10%;
-  font-weight: bold;
+  margin: 20px;
   color: #000000;
 }
 div.title {
@@ -74,6 +80,7 @@ div.title {
   color: #000000;
 }
 div.creativelicense {
+    text-align: center;
     position: static;
     bottom: 0;
 }
